@@ -1,0 +1,10 @@
+mods.extendedcrafting.TableCrafting.addShaped(<minecraft:cooked_mutton>, [
+[<contenttweaker:steel_oven>,<contenttweaker:steel_oven>,<contenttweaker:steel_oven>,<contenttweaker:steel_oven>,<contenttweaker:steel_oven>,<contenttweaker:steel_oven>,<contenttweaker:steel_oven>,<contenttweaker:steel_oven>,<contenttweaker:steel_oven>],
+[<contenttweaker:steel_oven>,<minecraft:mutton>,<minecraft:mutton>,<minecraft:mutton>,<minecraft:mutton>,<minecraft:mutton>,<minecraft:mutton>,<minecraft:mutton>,<contenttweaker:steel_oven>],
+[<contenttweaker:steel_oven>,<minecraft:mutton>,<contenttweaker:blaze_block>,<minecraft:coal_block>,<contenttweaker:blaze_block>,<minecraft:coal_block>,<contenttweaker:blaze_block>,<minecraft:mutton>,<contenttweaker:steel_oven>],
+[<contenttweaker:steel_oven>,<minecraft:mutton>,<minecraft:coal_block>,<contenttweaker:blaze_block>,<minecraft:coal_block>,<contenttweaker:blaze_block>,<minecraft:coal_block>,<minecraft:mutton>,<contenttweaker:steel_oven>],
+[<contenttweaker:steel_oven>,<minecraft:mutton>,<contenttweaker:blaze_block>,<minecraft:coal_block>,<contenttweaker:blaze_block>,<minecraft:coal_block>,<contenttweaker:blaze_block>,<minecraft:mutton>,<contenttweaker:steel_oven>],
+[<contenttweaker:steel_oven>,<minecraft:mutton>,<minecraft:coal_block>,<contenttweaker:blaze_block>,<minecraft:coal_block>,<contenttweaker:blaze_block>,<minecraft:coal_block>,<minecraft:mutton>,<contenttweaker:steel_oven>],
+[<contenttweaker:steel_oven>,<minecraft:mutton>,<contenttweaker:blaze_block>,<minecraft:coal_block>,<contenttweaker:blaze_block>,<minecraft:coal_block>,<contenttweaker:blaze_block>,<minecraft:mutton>,<contenttweaker:steel_oven>],
+[<contenttweaker:steel_oven>,<minecraft:mutton>,<minecraft:mutton>,<minecraft:mutton>,<minecraft:mutton>,<minecraft:mutton>,<minecraft:mutton>,<minecraft:mutton>,<contenttweaker:steel_oven>],
+[<contenttweaker:steel_oven>,<contenttweaker:steel_oven>,<contenttweaker:steel_oven>,<contenttweaker:steel_oven>,<contenttweaker:steel_oven>,<contenttweaker:steel_oven>,<contenttweaker:steel_oven>,<contenttweaker:steel_oven>,<contenttweaker:steel_oven>]]);

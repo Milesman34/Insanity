@@ -1,0 +1,10 @@
+mods.extendedcrafting.TableCrafting.addShaped(<contenttweaker:forge>, [
+[<minecraft:furnace>,<minecraft:furnace>,<minecraft:furnace>,<minecraft:furnace>,<minecraft:furnace>,<minecraft:furnace>,<minecraft:furnace>,<minecraft:furnace>,<minecraft:furnace>],
+[<minecraft:furnace>,<minecraft:coal_block>,<minecraft:coal_block>,<minecraft:coal_block>,<minecraft:coal_block>,<minecraft:coal_block>,<minecraft:coal_block>,<minecraft:coal_block>,<minecraft:furnace>],
+[<minecraft:furnace>,<minecraft:coal_block>,<contenttweaker:blaze_block>,<contenttweaker:blaze_block>,<contenttweaker:blaze_block>,<contenttweaker:blaze_block>,<contenttweaker:blaze_block>,<minecraft:coal_block>,<minecraft:furnace>],
+[<minecraft:furnace>,<minecraft:coal_block>,<contenttweaker:blaze_block>,<contenttweaker:blaze_block>,<contenttweaker:blaze_block>,<contenttweaker:blaze_block>,<contenttweaker:blaze_block>,<minecraft:coal_block>,<minecraft:furnace>],
+[<minecraft:furnace>,<minecraft:coal_block>,<contenttweaker:blaze_block>,<contenttweaker:blaze_block>,<contenttweaker:blaze_block>,<contenttweaker:blaze_block>,<contenttweaker:blaze_block>,<minecraft:coal_block>,<minecraft:furnace>],
+[<minecraft:furnace>,<minecraft:coal_block>,<contenttweaker:blaze_block>,<contenttweaker:blaze_block>,<contenttweaker:blaze_block>,<contenttweaker:blaze_block>,<contenttweaker:blaze_block>,<minecraft:coal_block>,<minecraft:furnace>],
+[<minecraft:furnace>,<minecraft:coal_block>,<contenttweaker:blaze_block>,<contenttweaker:blaze_block>,<contenttweaker:blaze_block>,<contenttweaker:blaze_block>,<contenttweaker:blaze_block>,<minecraft:coal_block>,<minecraft:furnace>],
+[<minecraft:furnace>,<minecraft:coal_block>,<minecraft:coal_block>,<minecraft:coal_block>,<minecraft:coal_block>,<minecraft:coal_block>,<minecraft:coal_block>,<minecraft:coal_block>,<minecraft:furnace>],
+[<minecraft:furnace>,<minecraft:furnace>,<minecraft:furnace>,<minecraft:furnace>,<minecraft:furnace>,<minecraft:furnace>,<minecraft:furnace>,<minecraft:furnace>,<minecraft:furnace>]]);

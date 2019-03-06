@@ -1,0 +1,10 @@
+mods.extendedcrafting.TableCrafting.addShaped(<minecraft:iron_ingot>, [
+[<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>],
+[<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>],
+[<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>],
+[<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>],
+[<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>],
+[<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>],
+[<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>],
+[<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>],
+[<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>,<minecraft:iron_nugget>]]);

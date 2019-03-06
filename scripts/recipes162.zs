@@ -1,0 +1,10 @@
+mods.extendedcrafting.TableCrafting.addShaped(<contenttweaker:compressed_sandstone>, [
+[<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>],
+[<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>],
+[<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>],
+[<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>],
+[<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>],
+[<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>],
+[<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>],
+[<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>],
+[<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>,<minecraft:sandstone:0>]]);

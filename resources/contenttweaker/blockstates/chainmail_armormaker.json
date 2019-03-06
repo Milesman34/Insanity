@@ -1,0 +1,16 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "textures": {
+      "side": "contenttweaker:blocks/chainmail_armormaker",
+	  "end": "contenttweaker:blocks/chains"
+    },
+    "model": "cube_column",
+    "uvlock": true,
+    "transform": "forge:default-block"
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}]
+  }
+}

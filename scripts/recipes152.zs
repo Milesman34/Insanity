@@ -1,0 +1,10 @@
+mods.extendedcrafting.TableCrafting.addShaped(<contenttweaker:blue_ice>, [
+[<contenttweaker:freezer>,<contenttweaker:freezer>,<contenttweaker:freezer>,<contenttweaker:freezer>,<contenttweaker:freezer>,<contenttweaker:freezer>,<contenttweaker:freezer>,<contenttweaker:freezer>,<contenttweaker:freezer>],
+[<contenttweaker:freezer>,<minecraft:packed_ice>,<minecraft:packed_ice>,<minecraft:packed_ice>,<minecraft:packed_ice>,<minecraft:packed_ice>,<minecraft:packed_ice>,<minecraft:packed_ice>,<contenttweaker:freezer>],
+[<contenttweaker:freezer>,<minecraft:packed_ice>,<minecraft:packed_ice>,<minecraft:packed_ice>,<minecraft:packed_ice>,<minecraft:packed_ice>,<minecraft:packed_ice>,<minecraft:packed_ice>,<contenttweaker:freezer>],
+[<contenttweaker:freezer>,<minecraft:packed_ice>,<minecraft:packed_ice>,<minecraft:packed_ice>,<minecraft:packed_ice>,<minecraft:packed_ice>,<minecraft:packed_ice>,<minecraft:packed_ice>,<contenttweaker:freezer>],
+[<contenttweaker:freezer>,<minecraft:packed_ice>,<minecraft:packed_ice>,<minecraft:packed_ice>,<minecraft:packed_ice>,<minecraft:packed_ice>,<minecraft:packed_ice>,<minecraft:packed_ice>,<contenttweaker:freezer>],
+[<contenttweaker:freezer>,<minecraft:packed_ice>,<minecraft:packed_ice>,<minecraft:packed_ice>,<minecraft:packed_ice>,<minecraft:packed_ice>,<minecraft:packed_ice>,<minecraft:packed_ice>,<contenttweaker:freezer>],
+[<contenttweaker:freezer>,<minecraft:packed_ice>,<minecraft:packed_ice>,<minecraft:packed_ice>,<minecraft:packed_ice>,<minecraft:packed_ice>,<minecraft:packed_ice>,<minecraft:packed_ice>,<contenttweaker:freezer>],
+[<contenttweaker:freezer>,<minecraft:packed_ice>,<minecraft:packed_ice>,<minecraft:packed_ice>,<minecraft:packed_ice>,<minecraft:packed_ice>,<minecraft:packed_ice>,<minecraft:packed_ice>,<contenttweaker:freezer>],
+[<contenttweaker:freezer>,<contenttweaker:freezer>,<contenttweaker:freezer>,<contenttweaker:freezer>,<contenttweaker:freezer>,<contenttweaker:freezer>,<contenttweaker:freezer>,<contenttweaker:freezer>,<contenttweaker:freezer>]]);

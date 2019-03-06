@@ -1,0 +1,10 @@
+mods.extendedcrafting.TableCrafting.addShaped(<contenttweaker:reinforced_string>, [
+[<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>],
+[<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>],
+[<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>],
+[<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>],
+[<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>],
+[<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>],
+[<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>],
+[<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>],
+[<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>]]);

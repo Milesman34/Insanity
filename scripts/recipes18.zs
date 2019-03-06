@@ -1,0 +1,10 @@
+mods.extendedcrafting.TableCrafting.addShaped(<minecraft:nether_brick>, [
+[<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>],
+[<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>],
+[<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>],
+[<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>],
+[<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>],
+[<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>],
+[<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>],
+[<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>],
+[<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>,<minecraft:netherbrick>]]);

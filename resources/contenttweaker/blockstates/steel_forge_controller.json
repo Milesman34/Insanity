@@ -1,0 +1,16 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "textures": {
+      "end": "contenttweaker:blocks/steel_forge_bricks",
+      "side": "contenttweaker:blocks/steel_forge_controller"
+    },
+    "model": "cube_column",
+    "uvlock": true,
+    "transform": "forge:default-block"
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}]
+  }
+}

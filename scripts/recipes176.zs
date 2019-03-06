@@ -1,0 +1,10 @@
+mods.extendedcrafting.TableCrafting.addShaped(<contenttweaker:chainmail_armormaker>, [
+[<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>],
+[<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>],
+[<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>],
+[<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<minecraft:leather_helmet>,<minecraft:leather_helmet>,<minecraft:leather_helmet>,<minecraft:leather_helmet>,<contenttweaker:chains>,<contenttweaker:chains>],
+[<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<minecraft:leather_chestplate>,<minecraft:leather_chestplate>,<minecraft:leather_chestplate>,<minecraft:leather_chestplate>,<contenttweaker:chains>,<contenttweaker:chains>],
+[<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<minecraft:leather_leggings>,<minecraft:leather_leggings>,<minecraft:leather_leggings>,<minecraft:leather_leggings>,<contenttweaker:chains>,<contenttweaker:chains>],
+[<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<minecraft:leather_boots>,<minecraft:leather_boots>,<minecraft:leather_boots>,<minecraft:leather_boots>,<contenttweaker:chains>,<contenttweaker:chains>],
+[<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>],
+[<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>]]);

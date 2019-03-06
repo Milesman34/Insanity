@@ -1,0 +1,10 @@
+mods.extendedcrafting.TableCrafting.addShaped(<contenttweaker:air_altar>, [
+[<minecraft:beacon>,<minecraft:beacon>,<minecraft:beacon>,<minecraft:beacon>,<minecraft:beacon>,<minecraft:beacon>,<minecraft:beacon>,<minecraft:beacon>,<minecraft:beacon>],
+[<minecraft:beacon>,<contenttweaker:pink_ice>,<contenttweaker:pink_ice>,<contenttweaker:pink_ice>,<contenttweaker:pink_ice>,<contenttweaker:pink_ice>,<contenttweaker:pink_ice>,<contenttweaker:pink_ice>,<minecraft:beacon>],
+[<minecraft:beacon>,<contenttweaker:pink_ice>,<extendedcrafting:storage:2>,<extendedcrafting:storage:2>,<extendedcrafting:storage:2>,<extendedcrafting:storage:2>,<extendedcrafting:storage:2>,<contenttweaker:pink_ice>,<minecraft:beacon>],
+[<minecraft:beacon>,<contenttweaker:pink_ice>,<extendedcrafting:storage:2>,<extendedcrafting:storage:2>,<extendedcrafting:storage:2>,<extendedcrafting:storage:2>,<extendedcrafting:storage:2>,<contenttweaker:pink_ice>,<minecraft:beacon>],
+[<minecraft:beacon>,<contenttweaker:pink_ice>,<extendedcrafting:storage:2>,<extendedcrafting:storage:2>,<extendedcrafting:storage:2>,<extendedcrafting:storage:2>,<extendedcrafting:storage:2>,<contenttweaker:pink_ice>,<minecraft:beacon>],
+[<minecraft:beacon>,<contenttweaker:pink_ice>,<extendedcrafting:storage:2>,<extendedcrafting:storage:2>,<extendedcrafting:storage:2>,<extendedcrafting:storage:2>,<extendedcrafting:storage:2>,<contenttweaker:pink_ice>,<minecraft:beacon>],
+[<minecraft:beacon>,<contenttweaker:pink_ice>,<extendedcrafting:storage:2>,<extendedcrafting:storage:2>,<extendedcrafting:storage:2>,<extendedcrafting:storage:2>,<extendedcrafting:storage:2>,<contenttweaker:pink_ice>,<minecraft:beacon>],
+[<minecraft:beacon>,<contenttweaker:pink_ice>,<contenttweaker:pink_ice>,<contenttweaker:pink_ice>,<contenttweaker:pink_ice>,<contenttweaker:pink_ice>,<contenttweaker:pink_ice>,<contenttweaker:pink_ice>,<minecraft:beacon>],
+[<minecraft:beacon>,<minecraft:beacon>,<minecraft:beacon>,<minecraft:beacon>,<minecraft:beacon>,<minecraft:beacon>,<minecraft:beacon>,<minecraft:beacon>,<minecraft:beacon>]]);

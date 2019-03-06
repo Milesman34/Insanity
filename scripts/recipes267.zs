@@ -1,0 +1,10 @@
+mods.extendedcrafting.TableCrafting.addShaped(<contenttweaker:banana_block>, [
+[<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>],
+[<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>],
+[<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>],
+[<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>],
+[<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>],
+[<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>],
+[<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>],
+[<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>],
+[<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>]]);

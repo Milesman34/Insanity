@@ -1,0 +1,10 @@
+mods.extendedcrafting.TableCrafting.addShaped(<minecraft:bread>, [
+[<contenttweaker:grindstone>,<contenttweaker:grindstone>,<contenttweaker:grindstone>,<contenttweaker:grindstone>,<contenttweaker:grindstone>,<contenttweaker:grindstone>,<contenttweaker:grindstone>,<contenttweaker:grindstone>,<contenttweaker:grindstone>],
+[<contenttweaker:grindstone>,<minecraft:hay_block>,<minecraft:hay_block>,<minecraft:hay_block>,<minecraft:hay_block>,<minecraft:hay_block>,<minecraft:hay_block>,<minecraft:hay_block>,<contenttweaker:grindstone>],
+[<contenttweaker:grindstone>,<minecraft:hay_block>,<minecraft:hay_block>,<minecraft:hay_block>,<minecraft:hay_block>,<minecraft:hay_block>,<minecraft:hay_block>,<minecraft:hay_block>,<contenttweaker:grindstone>],
+[<contenttweaker:grindstone>,<minecraft:hay_block>,<minecraft:hay_block>,<minecraft:hay_block>,<minecraft:hay_block>,<minecraft:hay_block>,<minecraft:hay_block>,<minecraft:hay_block>,<contenttweaker:grindstone>],
+[<contenttweaker:grindstone>,<minecraft:hay_block>,<minecraft:hay_block>,<minecraft:hay_block>,<minecraft:hay_block>,<minecraft:hay_block>,<minecraft:hay_block>,<minecraft:hay_block>,<contenttweaker:grindstone>],
+[<contenttweaker:grindstone>,<minecraft:hay_block>,<minecraft:hay_block>,<minecraft:hay_block>,<minecraft:hay_block>,<minecraft:hay_block>,<minecraft:hay_block>,<minecraft:hay_block>,<contenttweaker:grindstone>],
+[<contenttweaker:grindstone>,<minecraft:hay_block>,<minecraft:hay_block>,<minecraft:hay_block>,<minecraft:hay_block>,<minecraft:hay_block>,<minecraft:hay_block>,<minecraft:hay_block>,<contenttweaker:grindstone>],
+[<contenttweaker:grindstone>,<minecraft:hay_block>,<minecraft:hay_block>,<minecraft:hay_block>,<minecraft:hay_block>,<minecraft:hay_block>,<minecraft:hay_block>,<minecraft:hay_block>,<contenttweaker:grindstone>],
+[<contenttweaker:grindstone>,<contenttweaker:grindstone>,<contenttweaker:grindstone>,<contenttweaker:grindstone>,<contenttweaker:grindstone>,<contenttweaker:grindstone>,<contenttweaker:grindstone>,<contenttweaker:grindstone>,<contenttweaker:grindstone>]]);

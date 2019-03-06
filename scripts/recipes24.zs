@@ -1,0 +1,10 @@
+mods.extendedcrafting.TableCrafting.addShaped(<minecraft:red_mushroom_block>, [
+[<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>],
+[<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>],
+[<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>],
+[<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>],
+[<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>],
+[<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>],
+[<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>],
+[<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>],
+[<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>,<minecraft:red_mushroom>]]);

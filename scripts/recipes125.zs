@@ -1,0 +1,10 @@
+mods.extendedcrafting.TableCrafting.addShaped(<minecraft:chainmail_chestplate>, [
+[<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chainmail_armormaker>,<contenttweaker:chainmail_armormaker>,<contenttweaker:chainmail_armormaker>,<contenttweaker:chainmail_armormaker>,<contenttweaker:chainmail_armormaker>,<contenttweaker:chains>,<contenttweaker:chains>],
+[<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chainmail_armormaker>,<contenttweaker:chainmail_armormaker>,<contenttweaker:chainmail_armormaker>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>],
+[<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>],
+[<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>],
+[<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>],
+[<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>],
+[<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>],
+[<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>],
+[<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>]]);

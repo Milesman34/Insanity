@@ -1,0 +1,10 @@
+mods.extendedcrafting.TableCrafting.addShaped(<contenttweaker:glass_shard>, [
+[<contenttweaker:breaking_chamber>,<contenttweaker:breaking_chamber>,<contenttweaker:breaking_chamber>,<contenttweaker:breaking_chamber>,<contenttweaker:breaking_chamber>,<contenttweaker:breaking_chamber>,<contenttweaker:breaking_chamber>,<contenttweaker:breaking_chamber>,<contenttweaker:breaking_chamber>],
+[<contenttweaker:breaking_chamber>,<minecraft:glass>,<minecraft:glass>,<minecraft:glass>,<minecraft:glass>,<minecraft:glass>,<minecraft:glass>,<minecraft:glass>,<contenttweaker:breaking_chamber>],
+[<contenttweaker:breaking_chamber>,<minecraft:glass>,<minecraft:glass>,<minecraft:glass>,<minecraft:glass>,<minecraft:glass>,<minecraft:glass>,<minecraft:glass>,<contenttweaker:breaking_chamber>],
+[<contenttweaker:breaking_chamber>,<minecraft:glass>,<minecraft:glass>,<minecraft:glass>,<minecraft:glass>,<minecraft:glass>,<minecraft:glass>,<minecraft:glass>,<contenttweaker:breaking_chamber>],
+[<contenttweaker:breaking_chamber>,<minecraft:glass>,<minecraft:glass>,<minecraft:glass>,<minecraft:glass>,<minecraft:glass>,<minecraft:glass>,<minecraft:glass>,<contenttweaker:breaking_chamber>],
+[<contenttweaker:breaking_chamber>,<minecraft:glass>,<minecraft:glass>,<minecraft:glass>,<minecraft:glass>,<minecraft:glass>,<minecraft:glass>,<minecraft:glass>,<contenttweaker:breaking_chamber>],
+[<contenttweaker:breaking_chamber>,<minecraft:glass>,<minecraft:glass>,<minecraft:glass>,<minecraft:glass>,<minecraft:glass>,<minecraft:glass>,<minecraft:glass>,<contenttweaker:breaking_chamber>],
+[<contenttweaker:breaking_chamber>,<minecraft:glass>,<minecraft:glass>,<minecraft:glass>,<minecraft:glass>,<minecraft:glass>,<minecraft:glass>,<minecraft:glass>,<contenttweaker:breaking_chamber>],
+[<contenttweaker:breaking_chamber>,<contenttweaker:breaking_chamber>,<contenttweaker:breaking_chamber>,<contenttweaker:breaking_chamber>,<contenttweaker:breaking_chamber>,<contenttweaker:breaking_chamber>,<contenttweaker:breaking_chamber>,<contenttweaker:breaking_chamber>,<contenttweaker:breaking_chamber>]]);
