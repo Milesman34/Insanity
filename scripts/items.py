@@ -129,5 +129,6 @@ items = [
     Item("petrothite_nugget", recipe=Recipe2xSurroundingCheckerboard("<contenttweaker:petrothite_nugget>", "<contenttweaker:aerothite_metal_former>", "<contenttweaker:molten_petrothite>", "<contenttweaker:nugget_cast>", "<contenttweaker:rose_gold_ice>")),
     Item("petrothite_ingot", recipe=Recipe81("<contenttweaker:petrothite_ingot>", "<contenttweaker:petrothite_nugget>")),
     Item("petrothite_forge_brick", recipe=RecipeCheckerboard("<contenttweaker:petrothite_forge_brick>", "<contenttweaker:petrothite_block>", "<contenttweaker:tartarite_forge>")),
-    Item("molten_petrothite_glass", recipe=Recipe2xSurroundingCheckerboard("<contenttweaker:molten_petrothite_glass>", "<contenttweaker:petrothite_glass_production_oven>", "<contenttweaker:tartarite_glass>", "<contenttweaker:petrothite_block>", "<contenttweaker:life_infused_coke_block>"))
+    Item("molten_petrothite_glass", recipe=Recipe2xSurroundingCheckerboard("<contenttweaker:molten_petrothite_glass>", "<contenttweaker:petrothite_glass_production_oven>", "<contenttweaker:tartarite_glass>", "<contenttweaker:petrothite_block>", "<contenttweaker:life_infused_coke_block>")),
+    Item("mana_gas")
 ]

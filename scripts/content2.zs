@@ -130,6 +130,7 @@ VanillaFactory.createItem("petrothite_nugget").register();
 VanillaFactory.createItem("petrothite_ingot").register();
 VanillaFactory.createItem("petrothite_forge_brick").register();
 VanillaFactory.createItem("molten_petrothite_glass").register();
+VanillaFactory.createItem("mana_gas").register();
 var compressed_cobblestone = VanillaFactory.createBlock("compressed_cobblestone", <blockmaterial:rock>);
 compressed_cobblestone.setCreativeTab(<creativetab:buildingBlocks>);
 compressed_cobblestone.setBlockHardness(18.0);
