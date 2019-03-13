@@ -186,5 +186,8 @@ blocks = [
     Block("petrothite_tank", tier=tiers["petrothite"], recipe=RecipeSurrounding("<contenttweaker:petrothite_tank>", "<contenttweaker:petrothite_tank_wall>", "<contenttweaker:petrothite_tank_controller>")),
     Block("petrothite_chemistry_station", tier=tiers["petrothite"], recipe=Recipe2xSurrounding("<contenttweaker:petrothite_chemistry_station>", "<contenttweaker:petrothite_block>", "<contenttweaker:tartarite_chemistry_station>", "<contenttweaker:petrothite_tank>")),
     Block("petrothite_dust_refiner", tier=tiers["petrothite"], recipe=Recipe2xSurrounding("<contenttweaker:petrothite_dust_refiner>", "<contenttweaker:petrothite_block>", "<contenttweaker:tartarite_dust_refiner>", "<contenttweaker:petrothite_tank>")),
-    Block("petrothite_dust_mixer", tier=tiers["petrothite"], recipe=Recipe2xSurrounding("<contenttweaker:petrothite_dust_mixer>", "<contenttweaker:petrothite_block>", "<contenttweaker:petrothite_dust_refiner>", "<contenttweaker:petrothite_chemistry_station>"))
+    Block("petrothite_dust_mixer", tier=tiers["petrothite"], recipe=Recipe2xSurrounding("<contenttweaker:petrothite_dust_mixer>", "<contenttweaker:petrothite_block>", "<contenttweaker:petrothite_dust_refiner>", "<contenttweaker:petrothite_chemistry_station>")),
+    Block("petrothite_condensator", tier=tiers["petrothite"], recipe=Recipe2xSurroundingCheckerboard("<contenttweaker:petrothite_condensator>", "<contenttweaker:petrothite_block>", "<contenttweaker:petrothite_tank>", "<contenttweaker:aerothite_freezer>", "<contenttweaker:tartarite_condensator>")),
+    Block("petrothite_depositor", tier=tiers["petrothite"], recipe=Recipe2xSurrounding("<contenttweaker:petrothite_depositor>", "<contenttweaker:petrothite_block>", "<contenttweaker:petrothite_condensator>", "<contenttweaker:tartarite_depositor>")),
+    Block("mana_dust_block", tier=tiers["petrothite"], recipe=Recipe81("<contenttweaker:mana_dust_block>", "<contenttweaker:mana_dust>"))
 ]
