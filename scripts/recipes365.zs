@@ -1,10 +1,10 @@
-mods.extendedcrafting.TableCrafting.addShaped(<contenttweaker:beaker>, [
-[<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>],
-[<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>],
-[<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>],
-[<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>],
-[<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>],
-[<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>],
-[<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>],
-[<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>],
-[<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>,<contenttweaker:flask>]]);
+mods.extendedcrafting.TableCrafting.addShaped(<contenttweaker:flask>, [
+[<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>],
+[<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>],
+[<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>],
+[<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>],
+[<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>],
+[<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>],
+[<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>],
+[<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>],
+[<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>,<minecraft:glass_bottle>]]);

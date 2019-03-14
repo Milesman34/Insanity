@@ -133,5 +133,8 @@ items = [
     Item("mana_gas"),
     Item("very_tiny_mana_dust_pile", recipe=Recipe2xSurrounding("<contenttweaker:very_tiny_mana_dust_pile>", "<contenttweaker:petrothite_depositor>", "<contenttweaker:mana_gas>", "<contenttweaker:rose_gold_ice>")),
     Item("tiny_mana_dust_pile", recipe=Recipe81("<contenttweaker:tiny_mana_dust_pile>", "<contenttweaker:very_tiny_mana_dust_pile>")),
-    Item("mana_dust", recipe=Recipe81("<contenttweaker:mana_dust>", "<contenttweaker:tiny_mana_dust_pile>"))
+    Item("mana_dust", recipe=Recipe81("<contenttweaker:mana_dust>", "<contenttweaker:tiny_mana_dust_pile>")),
+    Item("molten_manalite", recipe=Recipe2xSurrounding("<contenttweaker:molten_manalite>", "<contenttweaker:petrothite_forge>", "<contenttweaker:mana_dust_block>", "<contenttweaker:life_infused_coke_block>")),
+    Item("manalite_nugget", recipe=Recipe2xSurroundingCheckerboard("<contenttweaker:manalite_nugget>", "<contenttweaker:aerothite_metal_former>", "<contenttweaker:molten_manalite>", "<contenttweaker:nugget_cast>", "<contenttweaker:rose_gold_ice>")),
+    Item("manalite_ingot", recipe=Recipe81("<contenttweaker:manalite_ingot>", "<contenttweaker:manalite_nugget>"))
 ]

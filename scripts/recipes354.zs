@@ -1,10 +1,10 @@
-mods.extendedcrafting.TableCrafting.addShaped(<contenttweaker:reinforced_string>, [
-[<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>],
-[<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>],
-[<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>],
-[<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>],
-[<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>],
-[<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>],
-[<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>],
-[<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>],
-[<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>]]);
+mods.extendedcrafting.TableCrafting.addShaped(<contenttweaker:chain>, [
+[<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>],
+[<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>],
+[<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>],
+[<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>],
+[<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>],
+[<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>],
+[<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>],
+[<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>],
+[<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>,<minecraft:iron_bars>]]);

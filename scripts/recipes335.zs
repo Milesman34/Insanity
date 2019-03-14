@@ -1,10 +1,10 @@
-mods.extendedcrafting.TableCrafting.addShaped(<contenttweaker:nugget_cast>, [
-[<minecraft:furnace>,<minecraft:furnace>,<minecraft:furnace>,<minecraft:furnace>,<minecraft:furnace>,<minecraft:furnace>,<minecraft:furnace>,<minecraft:furnace>,<minecraft:furnace>],
-[<minecraft:furnace>,<contenttweaker:raw_nugget_cast>,<contenttweaker:raw_nugget_cast>,<contenttweaker:raw_nugget_cast>,<contenttweaker:raw_nugget_cast>,<contenttweaker:raw_nugget_cast>,<contenttweaker:raw_nugget_cast>,<contenttweaker:raw_nugget_cast>,<minecraft:furnace>],
-[<minecraft:furnace>,<contenttweaker:raw_nugget_cast>,<contenttweaker:blaze_block>,<minecraft:coal_block>,<contenttweaker:blaze_block>,<minecraft:coal_block>,<contenttweaker:blaze_block>,<contenttweaker:raw_nugget_cast>,<minecraft:furnace>],
-[<minecraft:furnace>,<contenttweaker:raw_nugget_cast>,<minecraft:coal_block>,<contenttweaker:blaze_block>,<minecraft:coal_block>,<contenttweaker:blaze_block>,<minecraft:coal_block>,<contenttweaker:raw_nugget_cast>,<minecraft:furnace>],
-[<minecraft:furnace>,<contenttweaker:raw_nugget_cast>,<contenttweaker:blaze_block>,<minecraft:coal_block>,<contenttweaker:blaze_block>,<minecraft:coal_block>,<contenttweaker:blaze_block>,<contenttweaker:raw_nugget_cast>,<minecraft:furnace>],
-[<minecraft:furnace>,<contenttweaker:raw_nugget_cast>,<minecraft:coal_block>,<contenttweaker:blaze_block>,<minecraft:coal_block>,<contenttweaker:blaze_block>,<minecraft:coal_block>,<contenttweaker:raw_nugget_cast>,<minecraft:furnace>],
-[<minecraft:furnace>,<contenttweaker:raw_nugget_cast>,<contenttweaker:blaze_block>,<minecraft:coal_block>,<contenttweaker:blaze_block>,<minecraft:coal_block>,<contenttweaker:blaze_block>,<contenttweaker:raw_nugget_cast>,<minecraft:furnace>],
-[<minecraft:furnace>,<contenttweaker:raw_nugget_cast>,<contenttweaker:raw_nugget_cast>,<contenttweaker:raw_nugget_cast>,<contenttweaker:raw_nugget_cast>,<contenttweaker:raw_nugget_cast>,<contenttweaker:raw_nugget_cast>,<contenttweaker:raw_nugget_cast>,<minecraft:furnace>],
-[<minecraft:furnace>,<minecraft:furnace>,<minecraft:furnace>,<minecraft:furnace>,<minecraft:furnace>,<minecraft:furnace>,<minecraft:furnace>,<minecraft:furnace>,<minecraft:furnace>]]);
+mods.extendedcrafting.TableCrafting.addShaped(<contenttweaker:placeholder_clay>, [
+[<minecraft:hardened_clay>,<minecraft:clay>,<minecraft:hardened_clay>,<minecraft:clay>,<minecraft:hardened_clay>,<minecraft:clay>,<minecraft:hardened_clay>,<minecraft:clay>,<minecraft:hardened_clay>],
+[<minecraft:clay>,<minecraft:hardened_clay>,<minecraft:clay>,<minecraft:hardened_clay>,<minecraft:clay>,<minecraft:hardened_clay>,<minecraft:clay>,<minecraft:hardened_clay>,<minecraft:clay>],
+[<minecraft:hardened_clay>,<minecraft:clay>,<minecraft:hardened_clay>,<minecraft:clay>,<minecraft:hardened_clay>,<minecraft:clay>,<minecraft:hardened_clay>,<minecraft:clay>,<minecraft:hardened_clay>],
+[<minecraft:clay>,<minecraft:hardened_clay>,<minecraft:clay>,<minecraft:hardened_clay>,<minecraft:clay>,<minecraft:hardened_clay>,<minecraft:clay>,<minecraft:hardened_clay>,<minecraft:clay>],
+[<minecraft:hardened_clay>,<minecraft:clay>,<minecraft:hardened_clay>,<minecraft:clay>,<minecraft:hardened_clay>,<minecraft:clay>,<minecraft:hardened_clay>,<minecraft:clay>,<minecraft:hardened_clay>],
+[<minecraft:clay>,<minecraft:hardened_clay>,<minecraft:clay>,<minecraft:hardened_clay>,<minecraft:clay>,<minecraft:hardened_clay>,<minecraft:clay>,<minecraft:hardened_clay>,<minecraft:clay>],
+[<minecraft:hardened_clay>,<minecraft:clay>,<minecraft:hardened_clay>,<minecraft:clay>,<minecraft:hardened_clay>,<minecraft:clay>,<minecraft:hardened_clay>,<minecraft:clay>,<minecraft:hardened_clay>],
+[<minecraft:clay>,<minecraft:hardened_clay>,<minecraft:clay>,<minecraft:hardened_clay>,<minecraft:clay>,<minecraft:hardened_clay>,<minecraft:clay>,<minecraft:hardened_clay>,<minecraft:clay>],
+[<minecraft:hardened_clay>,<minecraft:clay>,<minecraft:hardened_clay>,<minecraft:clay>,<minecraft:hardened_clay>,<minecraft:clay>,<minecraft:hardened_clay>,<minecraft:clay>,<minecraft:hardened_clay>]]);

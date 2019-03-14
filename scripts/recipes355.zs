@@ -1,10 +1,10 @@
-mods.extendedcrafting.TableCrafting.addShaped(<contenttweaker:reinforced_feather>, [
-[<minecraft:feather>,<contenttweaker:steel_block>,<minecraft:feather>,<contenttweaker:steel_block>,<minecraft:feather>,<contenttweaker:steel_block>,<minecraft:feather>,<contenttweaker:steel_block>,<minecraft:feather>],
-[<contenttweaker:steel_block>,<minecraft:feather>,<contenttweaker:steel_block>,<minecraft:feather>,<contenttweaker:steel_block>,<minecraft:feather>,<contenttweaker:steel_block>,<minecraft:feather>,<contenttweaker:steel_block>],
-[<minecraft:feather>,<contenttweaker:steel_block>,<minecraft:feather>,<contenttweaker:steel_block>,<minecraft:feather>,<contenttweaker:steel_block>,<minecraft:feather>,<contenttweaker:steel_block>,<minecraft:feather>],
-[<contenttweaker:steel_block>,<minecraft:feather>,<contenttweaker:steel_block>,<minecraft:feather>,<contenttweaker:steel_block>,<minecraft:feather>,<contenttweaker:steel_block>,<minecraft:feather>,<contenttweaker:steel_block>],
-[<minecraft:feather>,<contenttweaker:steel_block>,<minecraft:feather>,<contenttweaker:steel_block>,<minecraft:feather>,<contenttweaker:steel_block>,<minecraft:feather>,<contenttweaker:steel_block>,<minecraft:feather>],
-[<contenttweaker:steel_block>,<minecraft:feather>,<contenttweaker:steel_block>,<minecraft:feather>,<contenttweaker:steel_block>,<minecraft:feather>,<contenttweaker:steel_block>,<minecraft:feather>,<contenttweaker:steel_block>],
-[<minecraft:feather>,<contenttweaker:steel_block>,<minecraft:feather>,<contenttweaker:steel_block>,<minecraft:feather>,<contenttweaker:steel_block>,<minecraft:feather>,<contenttweaker:steel_block>,<minecraft:feather>],
-[<contenttweaker:steel_block>,<minecraft:feather>,<contenttweaker:steel_block>,<minecraft:feather>,<contenttweaker:steel_block>,<minecraft:feather>,<contenttweaker:steel_block>,<minecraft:feather>,<contenttweaker:steel_block>],
-[<minecraft:feather>,<contenttweaker:steel_block>,<minecraft:feather>,<contenttweaker:steel_block>,<minecraft:feather>,<contenttweaker:steel_block>,<minecraft:feather>,<contenttweaker:steel_block>,<minecraft:feather>]]);
+mods.extendedcrafting.TableCrafting.addShaped(<contenttweaker:reinforced_string>, [
+[<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>],
+[<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>],
+[<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>],
+[<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>],
+[<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>],
+[<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>],
+[<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>],
+[<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>],
+[<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>,<contenttweaker:steel_block>,<minecraft:string>]]);

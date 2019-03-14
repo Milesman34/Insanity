@@ -189,5 +189,6 @@ blocks = [
     Block("petrothite_dust_mixer", tier=tiers["petrothite"], recipe=Recipe2xSurrounding("<contenttweaker:petrothite_dust_mixer>", "<contenttweaker:petrothite_block>", "<contenttweaker:petrothite_dust_refiner>", "<contenttweaker:petrothite_chemistry_station>")),
     Block("petrothite_condensator", tier=tiers["petrothite"], recipe=Recipe2xSurroundingCheckerboard("<contenttweaker:petrothite_condensator>", "<contenttweaker:petrothite_block>", "<contenttweaker:petrothite_tank>", "<contenttweaker:aerothite_freezer>", "<contenttweaker:tartarite_condensator>")),
     Block("petrothite_depositor", tier=tiers["petrothite"], recipe=Recipe2xSurrounding("<contenttweaker:petrothite_depositor>", "<contenttweaker:petrothite_block>", "<contenttweaker:petrothite_condensator>", "<contenttweaker:tartarite_depositor>")),
-    Block("mana_dust_block", tier=tiers["petrothite"], recipe=Recipe81("<contenttweaker:mana_dust_block>", "<contenttweaker:mana_dust>"))
+    Block("mana_dust_block", tier=tiers["petrothite"], recipe=Recipe81("<contenttweaker:mana_dust_block>", "<contenttweaker:mana_dust>")),
+    Block("manalite_block", tier=tiers["manalite"], recipe=Recipe81("<contenttweaker:manalite_block>", "<contenttweaker:manalite_ingot>"))
 ]
