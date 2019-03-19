@@ -193,5 +193,10 @@ blocks = [
     Block("manalite_block", tier=tiers["manalite"], recipe=Recipe81("<contenttweaker:manalite_block>", "<contenttweaker:manalite_ingot>")),
     Block("manalite_forge_bricks", tier=tiers["manalite"], recipe=Recipe81("<contenttweaker:manalite_forge_bricks>", "<contenttweaker:manalite_forge_brick>")),
     Block("manalite_forge_controller", tier=tiers["manalite"], recipe=RecipeSurrounding("<contenttweaker:manalite_forge_controller>", "<contenttweaker:manalite_forge_bricks>", "<contenttweaker:manalite_block>")),
-    Block("manalite_forge", tier=tiers["manalite"], recipe=RecipeSurrounding("<contenttweaker:manalite_forge>", "<contenttweaker:manalite_forge_bricks>", "<contenttweaker:manalite_forge_controller>"))
+    Block("manalite_forge", tier=tiers["manalite"], recipe=RecipeSurrounding("<contenttweaker:manalite_forge>", "<contenttweaker:manalite_forge_bricks>", "<contenttweaker:manalite_forge_controller>")),
+    Block("altarus_refinery", tier=tiers["altarus"], recipe=Recipe2xSurrounding("<contenttweaker:altarus_refinery>", "<contenttweaker:altarus_block>", "<contenttweaker:reinforced_steel_refinery>", "<contenttweaker:altarus_forge>")),
+    Block("tartarite_refinery", tier=tiers["tartarite"], recipe=Recipe2xSurrounding("<contenttweaker:tartarite_refinery>", "<contenttweaker:tartarite_block>", "<contenttweaker:altarus_refinery>", "<contenttweaker:tartarite_forge>")),
+    Block("petrothite_refinery", tier=tiers["petrothite"], recipe=Recipe2xSurrounding("<contenttweaker:petrothite_refinery>", "<contenttweaker:petrothite_block>", "<contenttweaker:tartarite_refinery>", "<contenttweaker:petrothite_forge>")),
+    Block("manalite_refinery", tier=tiers["manalite"], recipe=Recipe2xSurrounding("<contenttweaker:manalite_refinery>", "<contenttweaker:manalite_block>", "<contenttweaker:petrothite_refinery>", "<contenttweaker:manalite_forge>")),
+    Block("mana_coke_block", tier=tiers["manalite"], recipe=Recipe81("<contenttweaker:mana_coke_block>", "<contenttweaker:mana_coke>"))
 ]
