@@ -1,10 +1,10 @@
-mods.extendedcrafting.TableCrafting.addShaped(<contenttweaker:carrot_block>, [
-[<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>],
-[<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>],
-[<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>],
-[<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>],
-[<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>],
-[<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>],
-[<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>],
-[<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>],
-[<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>,<minecraft:carrot>]]);
+mods.extendedcrafting.TableCrafting.addShaped(<contenttweaker:steel_oven>, [
+[<contenttweaker:steel_block>,<contenttweaker:steel_block>,<contenttweaker:steel_block>,<contenttweaker:steel_block>,<contenttweaker:steel_block>,<contenttweaker:steel_block>,<contenttweaker:steel_block>,<contenttweaker:steel_block>,<contenttweaker:steel_block>],
+[<contenttweaker:steel_block>,<minecraft:hardened_clay>,<minecraft:hardened_clay>,<minecraft:hardened_clay>,<minecraft:hardened_clay>,<minecraft:hardened_clay>,<minecraft:hardened_clay>,<minecraft:hardened_clay>,<contenttweaker:steel_block>],
+[<contenttweaker:steel_block>,<minecraft:hardened_clay>,<contenttweaker:steel_forge>,<contenttweaker:steel_forge>,<contenttweaker:steel_forge>,<contenttweaker:steel_forge>,<contenttweaker:steel_forge>,<minecraft:hardened_clay>,<contenttweaker:steel_block>],
+[<contenttweaker:steel_block>,<minecraft:hardened_clay>,<contenttweaker:steel_forge>,<contenttweaker:steel_forge>,<contenttweaker:steel_forge>,<contenttweaker:steel_forge>,<contenttweaker:steel_forge>,<minecraft:hardened_clay>,<contenttweaker:steel_block>],
+[<contenttweaker:steel_block>,<minecraft:hardened_clay>,<contenttweaker:steel_forge>,<contenttweaker:steel_forge>,<contenttweaker:steel_forge>,<contenttweaker:steel_forge>,<contenttweaker:steel_forge>,<minecraft:hardened_clay>,<contenttweaker:steel_block>],
+[<contenttweaker:steel_block>,<minecraft:hardened_clay>,<contenttweaker:steel_forge>,<contenttweaker:steel_forge>,<contenttweaker:steel_forge>,<contenttweaker:steel_forge>,<contenttweaker:steel_forge>,<minecraft:hardened_clay>,<contenttweaker:steel_block>],
+[<contenttweaker:steel_block>,<minecraft:hardened_clay>,<contenttweaker:steel_forge>,<contenttweaker:steel_forge>,<contenttweaker:steel_forge>,<contenttweaker:steel_forge>,<contenttweaker:steel_forge>,<minecraft:hardened_clay>,<contenttweaker:steel_block>],
+[<contenttweaker:steel_block>,<minecraft:hardened_clay>,<minecraft:hardened_clay>,<minecraft:hardened_clay>,<minecraft:hardened_clay>,<minecraft:hardened_clay>,<minecraft:hardened_clay>,<minecraft:hardened_clay>,<contenttweaker:steel_block>],
+[<contenttweaker:steel_block>,<contenttweaker:steel_block>,<contenttweaker:steel_block>,<contenttweaker:steel_block>,<contenttweaker:steel_block>,<contenttweaker:steel_block>,<contenttweaker:steel_block>,<contenttweaker:steel_block>,<contenttweaker:steel_block>]]);

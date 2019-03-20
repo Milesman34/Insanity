@@ -1,10 +1,10 @@
-mods.extendedcrafting.TableCrafting.addShaped(<contenttweaker:metal_former>, [
-[<minecraft:hardened_clay>,<minecraft:hardened_clay>,<minecraft:hardened_clay>,<minecraft:hardened_clay>,<minecraft:hardened_clay>,<minecraft:hardened_clay>,<minecraft:hardened_clay>,<minecraft:hardened_clay>,<minecraft:hardened_clay>],
-[<minecraft:hardened_clay>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<minecraft:hardened_clay>],
-[<minecraft:hardened_clay>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<minecraft:hardened_clay>],
-[<minecraft:hardened_clay>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<minecraft:hardened_clay>],
-[<minecraft:hardened_clay>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<minecraft:hardened_clay>],
-[<minecraft:hardened_clay>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<minecraft:hardened_clay>],
-[<minecraft:hardened_clay>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<minecraft:hardened_clay>],
-[<minecraft:hardened_clay>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<minecraft:hardened_clay>],
-[<minecraft:hardened_clay>,<minecraft:hardened_clay>,<minecraft:hardened_clay>,<minecraft:hardened_clay>,<minecraft:hardened_clay>,<minecraft:hardened_clay>,<minecraft:hardened_clay>,<minecraft:hardened_clay>,<minecraft:hardened_clay>]]);
+mods.extendedcrafting.TableCrafting.addShaped(<minecraft:bowl>, [
+[<minecraft:planks:5>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:planks:5>],
+[<minecraft:stick>,<minecraft:planks:5>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:planks:5>,<minecraft:stick>],
+[<minecraft:stick>,<minecraft:stick>,<minecraft:planks:5>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:planks:5>,<minecraft:stick>,<minecraft:stick>],
+[<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:planks:5>,<minecraft:stick>,<minecraft:planks:5>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>],
+[<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:planks:5>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>],
+[<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>],
+[<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>],
+[<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>],
+[<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>]]);

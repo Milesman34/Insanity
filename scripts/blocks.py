@@ -198,5 +198,11 @@ blocks = [
     Block("tartarite_refinery", tier=tiers["tartarite"], recipe=Recipe2xSurrounding("<contenttweaker:tartarite_refinery>", "<contenttweaker:tartarite_block>", "<contenttweaker:altarus_refinery>", "<contenttweaker:tartarite_forge>")),
     Block("petrothite_refinery", tier=tiers["petrothite"], recipe=Recipe2xSurrounding("<contenttweaker:petrothite_refinery>", "<contenttweaker:petrothite_block>", "<contenttweaker:tartarite_refinery>", "<contenttweaker:petrothite_forge>")),
     Block("manalite_refinery", tier=tiers["manalite"], recipe=Recipe2xSurrounding("<contenttweaker:manalite_refinery>", "<contenttweaker:manalite_block>", "<contenttweaker:petrothite_refinery>", "<contenttweaker:manalite_forge>")),
-    Block("mana_coke_block", tier=tiers["manalite"], recipe=Recipe81("<contenttweaker:mana_coke_block>", "<contenttweaker:mana_coke>"))
+    Block("mana_coke_block", tier=tiers["manalite"], recipe=Recipe81("<contenttweaker:mana_coke_block>", "<contenttweaker:mana_coke>")),
+    Block("manalite_freezer", tier=tiers["manalite"], recipe=Recipe2xSurrounding("<contenttweaker:manalite_freezer>", "<contenttweaker:manalite_block>", "<contenttweaker:aerothite_freezer>", "<contenttweaker:rose_gold_ice>")),
+    Block("green_ice", tier=tiers["manalite"], recipe=RecipeSurrounding("<contenttweaker:green_ice>", "<contenttweaker:manalite_freezer>", "<contenttweaker:rose_gold_ice>")),
+    Block("manalite_metal_former", tier=tiers["manalite"], recipe=Recipe2xSurrounding("<contenttweaker:manalite_metal_former>", "<contenttweaker:manalite_freezer>", "<contenttweaker:aerothite_metal_former>", "<contenttweaker:green_ice>")),
+    Block("angmallen_block", tier=tiers["angmallen"], recipe=Recipe81("<contenttweaker:angmallen_block>", "<contenttweaker:angmallen_ingot>")),
+    Block("angmallen_toolmaker", tier=tiers["angmallen"], recipe=RecipeToolmaker("<contenttweaker:angmallen_toolmaker>", "<contenttweaker:angmallen_block>", "<minecraft:iron_pickaxe>", "<minecraft:iron_axe>", "<minecraft:iron_shovel>", "<minecraft:iron_hoe>", "<minecraft:iron_sword>")),
+    Block("angmallen_armormaker", tier=tiers["angmallen"], recipe=RecipeArmormaker("<contenttweaker:angmallen_armormaker>", "<contenttweaker:angmallen_block>", "<minecraft:iron_helmet>", "<minecraft:iron_chestplate>", "<minecraft:iron_leggings>", "<minecraft:iron_boots>"))
 ]

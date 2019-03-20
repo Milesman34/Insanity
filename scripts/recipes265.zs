@@ -1,10 +1,10 @@
-mods.extendedcrafting.TableCrafting.addShaped(<contenttweaker:life_altar>, [
-[<contenttweaker:air_altar>,<contenttweaker:air_altar>,<contenttweaker:air_altar>,<contenttweaker:air_altar>,<contenttweaker:air_altar>,<contenttweaker:air_altar>,<contenttweaker:air_altar>,<contenttweaker:air_altar>,<contenttweaker:air_altar>],
-[<contenttweaker:air_altar>,<contenttweaker:weird_food>,<contenttweaker:weird_food>,<contenttweaker:weird_food>,<contenttweaker:weird_food>,<contenttweaker:weird_food>,<contenttweaker:weird_food>,<contenttweaker:weird_food>,<contenttweaker:air_altar>],
-[<contenttweaker:air_altar>,<contenttweaker:weird_food>,<contenttweaker:weird_food>,<contenttweaker:weird_food>,<contenttweaker:weird_food>,<contenttweaker:weird_food>,<contenttweaker:weird_food>,<contenttweaker:weird_food>,<contenttweaker:air_altar>],
-[<contenttweaker:air_altar>,<contenttweaker:weird_food>,<contenttweaker:weird_food>,<contenttweaker:weird_food>,<contenttweaker:weird_food>,<contenttweaker:weird_food>,<contenttweaker:weird_food>,<contenttweaker:weird_food>,<contenttweaker:air_altar>],
-[<contenttweaker:air_altar>,<contenttweaker:weird_food>,<contenttweaker:weird_food>,<contenttweaker:weird_food>,<contenttweaker:weird_food>,<contenttweaker:weird_food>,<contenttweaker:weird_food>,<contenttweaker:weird_food>,<contenttweaker:air_altar>],
-[<contenttweaker:air_altar>,<contenttweaker:weird_food>,<contenttweaker:weird_food>,<contenttweaker:weird_food>,<contenttweaker:weird_food>,<contenttweaker:weird_food>,<contenttweaker:weird_food>,<contenttweaker:weird_food>,<contenttweaker:air_altar>],
-[<contenttweaker:air_altar>,<contenttweaker:weird_food>,<contenttweaker:weird_food>,<contenttweaker:weird_food>,<contenttweaker:weird_food>,<contenttweaker:weird_food>,<contenttweaker:weird_food>,<contenttweaker:weird_food>,<contenttweaker:air_altar>],
-[<contenttweaker:air_altar>,<contenttweaker:weird_food>,<contenttweaker:weird_food>,<contenttweaker:weird_food>,<contenttweaker:weird_food>,<contenttweaker:weird_food>,<contenttweaker:weird_food>,<contenttweaker:weird_food>,<contenttweaker:air_altar>],
-[<contenttweaker:air_altar>,<contenttweaker:air_altar>,<contenttweaker:air_altar>,<contenttweaker:air_altar>,<contenttweaker:air_altar>,<contenttweaker:air_altar>,<contenttweaker:air_altar>,<contenttweaker:air_altar>,<contenttweaker:air_altar>]]);
+mods.extendedcrafting.TableCrafting.addShaped(<contenttweaker:paper_block>, [
+[<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>],
+[<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>],
+[<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>],
+[<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>],
+[<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>],
+[<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>],
+[<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>],
+[<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>],
+[<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>,<minecraft:paper>]]);

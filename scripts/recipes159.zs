@@ -1,10 +1,10 @@
-mods.extendedcrafting.TableCrafting.addShaped(<contenttweaker:charcoal_block>, [
-[<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>],
-[<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>],
-[<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>],
-[<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>],
-[<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>],
-[<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>],
-[<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>],
-[<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>],
-[<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>,<minecraft:coal:1>]]);
+mods.extendedcrafting.TableCrafting.addShaped(<contenttweaker:metal_former>, [
+[<minecraft:hardened_clay>,<minecraft:hardened_clay>,<minecraft:hardened_clay>,<minecraft:hardened_clay>,<minecraft:hardened_clay>,<minecraft:hardened_clay>,<minecraft:hardened_clay>,<minecraft:hardened_clay>,<minecraft:hardened_clay>],
+[<minecraft:hardened_clay>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<minecraft:hardened_clay>],
+[<minecraft:hardened_clay>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<minecraft:hardened_clay>],
+[<minecraft:hardened_clay>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<minecraft:hardened_clay>],
+[<minecraft:hardened_clay>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<minecraft:hardened_clay>],
+[<minecraft:hardened_clay>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<minecraft:hardened_clay>],
+[<minecraft:hardened_clay>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<minecraft:hardened_clay>],
+[<minecraft:hardened_clay>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<contenttweaker:blue_ice>,<minecraft:hardened_clay>],
+[<minecraft:hardened_clay>,<minecraft:hardened_clay>,<minecraft:hardened_clay>,<minecraft:hardened_clay>,<minecraft:hardened_clay>,<minecraft:hardened_clay>,<minecraft:hardened_clay>,<minecraft:hardened_clay>,<minecraft:hardened_clay>]]);

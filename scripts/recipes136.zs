@@ -1,10 +1,10 @@
-mods.extendedcrafting.TableCrafting.addShaped(<minecraft:bowl>, [
-[<minecraft:planks:0>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:planks:0>],
-[<minecraft:stick>,<minecraft:planks:0>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:planks:0>,<minecraft:stick>],
-[<minecraft:stick>,<minecraft:stick>,<minecraft:planks:0>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:planks:0>,<minecraft:stick>,<minecraft:stick>],
-[<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:planks:0>,<minecraft:stick>,<minecraft:planks:0>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>],
-[<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:planks:0>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>],
-[<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>],
-[<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>],
-[<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>],
-[<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>]]);
+mods.extendedcrafting.TableCrafting.addShaped(<minecraft:chainmail_leggings>, [
+[<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>],
+[<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>],
+[<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chainmail_armormaker>,<contenttweaker:chainmail_armormaker>,<contenttweaker:chainmail_armormaker>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>],
+[<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chainmail_armormaker>,<contenttweaker:chainmail_armormaker>,<contenttweaker:chainmail_armormaker>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>],
+[<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chainmail_armormaker>,<contenttweaker:chainmail_armormaker>,<contenttweaker:chainmail_armormaker>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>],
+[<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chainmail_armormaker>,<contenttweaker:chainmail_armormaker>,<contenttweaker:chainmail_armormaker>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>],
+[<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chainmail_armormaker>,<contenttweaker:chainmail_armormaker>,<contenttweaker:chainmail_armormaker>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>],
+[<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chainmail_armormaker>,<contenttweaker:chainmail_armormaker>,<contenttweaker:chainmail_armormaker>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>],
+[<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chainmail_armormaker>,<contenttweaker:chainmail_armormaker>,<contenttweaker:chainmail_armormaker>,<contenttweaker:chains>,<contenttweaker:chains>,<contenttweaker:chains>]]);

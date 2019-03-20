@@ -1,10 +1,10 @@
-mods.extendedcrafting.TableCrafting.addShaped(<contenttweaker:banana_block>, [
-[<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>],
-[<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>],
-[<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>],
-[<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>],
-[<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>],
-[<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>],
-[<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>],
-[<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>],
-[<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>,<contenttweaker:banana>]]);
+mods.extendedcrafting.TableCrafting.addShaped(<contenttweaker:sugar_block>, [
+[<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>],
+[<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>],
+[<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>],
+[<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>],
+[<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>],
+[<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>],
+[<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>],
+[<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>],
+[<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>,<minecraft:sugar>]]);

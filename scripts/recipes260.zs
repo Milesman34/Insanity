@@ -1,10 +1,10 @@
-mods.extendedcrafting.TableCrafting.addShaped(<contenttweaker:flesh_block>, [
-[<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>],
-[<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>],
-[<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>],
-[<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>],
-[<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>],
-[<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>],
-[<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>],
-[<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>],
-[<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>,<minecraft:rotten_flesh>]]);
+mods.extendedcrafting.TableCrafting.addShaped(<contenttweaker:beetroot_block>, [
+[<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>],
+[<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>],
+[<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>],
+[<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>],
+[<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>],
+[<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>],
+[<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>],
+[<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>],
+[<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>,<minecraft:beetroot>]]);

@@ -1,10 +1,10 @@
-mods.extendedcrafting.TableCrafting.addShaped(<minecraft:lead>, [
-[<contenttweaker:steel_toolmaker>,<contenttweaker:steel_toolmaker>,<contenttweaker:steel_toolmaker>,<contenttweaker:steel_toolmaker>,<contenttweaker:steel_toolmaker>,<contenttweaker:steel_toolmaker>,<contenttweaker:steel_toolmaker>,<contenttweaker:steel_toolmaker>,<contenttweaker:steel_toolmaker>],
-[<contenttweaker:steel_toolmaker>,<contenttweaker:reinforced_wool>,<contenttweaker:reinforced_wool>,<contenttweaker:reinforced_wool>,<contenttweaker:steel_block>,<contenttweaker:steel_block>,<minecraft:slime>,<minecraft:slime>,<contenttweaker:steel_toolmaker>],
-[<contenttweaker:steel_toolmaker>,<contenttweaker:reinforced_wool>,<contenttweaker:reinforced_wool>,<contenttweaker:reinforced_wool>,<contenttweaker:steel_block>,<contenttweaker:steel_block>,<minecraft:slime>,<minecraft:slime>,<contenttweaker:steel_toolmaker>],
-[<contenttweaker:steel_toolmaker>,<contenttweaker:reinforced_wool>,<contenttweaker:reinforced_wool>,<contenttweaker:steel_block>,<contenttweaker:steel_block>,<contenttweaker:steel_block>,<minecraft:slime>,<minecraft:slime>,<contenttweaker:steel_toolmaker>],
-[<contenttweaker:steel_toolmaker>,<contenttweaker:reinforced_wool>,<contenttweaker:reinforced_wool>,<contenttweaker:steel_block>,<contenttweaker:steel_block>,<contenttweaker:steel_toolmaker>,<minecraft:slime>,<minecraft:slime>,<contenttweaker:steel_toolmaker>],
-[<contenttweaker:steel_toolmaker>,<contenttweaker:reinforced_wool>,<contenttweaker:reinforced_wool>,<contenttweaker:steel_block>,<contenttweaker:steel_block>,<contenttweaker:steel_block>,<minecraft:slime>,<minecraft:slime>,<contenttweaker:steel_toolmaker>],
-[<contenttweaker:steel_toolmaker>,<contenttweaker:reinforced_wool>,<contenttweaker:reinforced_wool>,<contenttweaker:steel_block>,<contenttweaker:steel_block>,<minecraft:slime>,<minecraft:slime>,<minecraft:slime>,<contenttweaker:steel_toolmaker>],
-[<contenttweaker:steel_toolmaker>,<contenttweaker:reinforced_wool>,<contenttweaker:reinforced_wool>,<contenttweaker:steel_block>,<contenttweaker:steel_block>,<minecraft:slime>,<minecraft:slime>,<minecraft:slime>,<contenttweaker:steel_toolmaker>],
-[<contenttweaker:steel_toolmaker>,<contenttweaker:steel_toolmaker>,<contenttweaker:steel_toolmaker>,<contenttweaker:steel_toolmaker>,<contenttweaker:steel_toolmaker>,<contenttweaker:steel_toolmaker>,<contenttweaker:steel_toolmaker>,<contenttweaker:steel_toolmaker>,<contenttweaker:steel_toolmaker>]]);
+mods.extendedcrafting.TableCrafting.addShaped(<minecraft:glass_bottle>, [
+[<minecraft:glass>,<minecraft:bucket>,<minecraft:bucket>,<minecraft:bucket>,<minecraft:bucket>,<minecraft:bucket>,<minecraft:bucket>,<minecraft:bucket>,<minecraft:glass>],
+[<minecraft:bucket>,<minecraft:glass>,<minecraft:bucket>,<minecraft:bucket>,<minecraft:bucket>,<minecraft:bucket>,<minecraft:bucket>,<minecraft:glass>,<minecraft:bucket>],
+[<minecraft:bucket>,<minecraft:bucket>,<minecraft:glass>,<minecraft:bucket>,<minecraft:bucket>,<minecraft:bucket>,<minecraft:glass>,<minecraft:bucket>,<minecraft:bucket>],
+[<minecraft:bucket>,<minecraft:bucket>,<minecraft:bucket>,<minecraft:glass>,<minecraft:bucket>,<minecraft:glass>,<minecraft:bucket>,<minecraft:bucket>,<minecraft:bucket>],
+[<minecraft:bucket>,<minecraft:bucket>,<minecraft:bucket>,<minecraft:bucket>,<minecraft:glass>,<minecraft:bucket>,<minecraft:bucket>,<minecraft:bucket>,<minecraft:bucket>],
+[<minecraft:bucket>,<minecraft:bucket>,<minecraft:bucket>,<minecraft:bucket>,<minecraft:bucket>,<minecraft:bucket>,<minecraft:bucket>,<minecraft:bucket>,<minecraft:bucket>],
+[<minecraft:bucket>,<minecraft:bucket>,<minecraft:bucket>,<minecraft:bucket>,<minecraft:bucket>,<minecraft:bucket>,<minecraft:bucket>,<minecraft:bucket>,<minecraft:bucket>],
+[<minecraft:bucket>,<minecraft:bucket>,<minecraft:bucket>,<minecraft:bucket>,<minecraft:bucket>,<minecraft:bucket>,<minecraft:bucket>,<minecraft:bucket>,<minecraft:bucket>],
+[<minecraft:bucket>,<minecraft:bucket>,<minecraft:bucket>,<minecraft:bucket>,<minecraft:bucket>,<minecraft:bucket>,<minecraft:bucket>,<minecraft:bucket>,<minecraft:bucket>]]);

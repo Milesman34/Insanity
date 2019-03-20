@@ -1,10 +1,10 @@
-mods.extendedcrafting.TableCrafting.addShaped(<contenttweaker:leather_block>, [
-[<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>],
-[<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>],
-[<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>],
-[<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>],
-[<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>],
-[<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>],
-[<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>],
-[<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>],
-[<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>,<minecraft:leather>]]);
+mods.extendedcrafting.TableCrafting.addShaped(<contenttweaker:gunpowder_block>, [
+[<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>],
+[<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>],
+[<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>],
+[<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>],
+[<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>],
+[<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>],
+[<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>],
+[<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>],
+[<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>,<minecraft:gunpowder>]]);

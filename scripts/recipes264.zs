@@ -1,10 +1,10 @@
-mods.extendedcrafting.TableCrafting.addShaped(<contenttweaker:poisonous_potato_block>, [
-[<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>],
-[<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>],
-[<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>],
-[<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>],
-[<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>],
-[<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>],
-[<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>],
-[<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>],
-[<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>,<minecraft:poisonous_potato>]]);
+mods.extendedcrafting.TableCrafting.addShaped(<contenttweaker:sugar_cane_block>, [
+[<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>],
+[<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>],
+[<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>],
+[<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>],
+[<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>],
+[<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>],
+[<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>],
+[<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>],
+[<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>,<minecraft:reeds>]]);

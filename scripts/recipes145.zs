@@ -1,10 +1,10 @@
-mods.extendedcrafting.TableCrafting.addShaped(<minecraft:name_tag>, [
-[<minecraft:anvil>,<minecraft:anvil>,<minecraft:anvil>,<minecraft:anvil>,<minecraft:anvil>,<minecraft:anvil>,<minecraft:anvil>,<minecraft:anvil>,<minecraft:anvil>],
-[<contenttweaker:steel_toolmaker>,<contenttweaker:steel_toolmaker>,<contenttweaker:steel_toolmaker>,<minecraft:slime>,<contenttweaker:reinforced_wool>,<minecraft:slime>,<contenttweaker:steel_toolmaker>,<contenttweaker:steel_toolmaker>,<contenttweaker:steel_toolmaker>],
-[<contenttweaker:steel_toolmaker>,<contenttweaker:steel_toolmaker>,<contenttweaker:steel_toolmaker>,<minecraft:slime>,<contenttweaker:reinforced_wool>,<minecraft:slime>,<contenttweaker:steel_toolmaker>,<contenttweaker:steel_toolmaker>,<contenttweaker:steel_toolmaker>],
-[<contenttweaker:steel_toolmaker>,<contenttweaker:steel_toolmaker>,<contenttweaker:steel_toolmaker>,<minecraft:slime>,<contenttweaker:reinforced_wool>,<minecraft:slime>,<contenttweaker:steel_toolmaker>,<contenttweaker:steel_toolmaker>,<contenttweaker:steel_toolmaker>],
-[<contenttweaker:steel_toolmaker>,<contenttweaker:steel_toolmaker>,<contenttweaker:steel_toolmaker>,<minecraft:slime>,<contenttweaker:reinforced_wool>,<minecraft:slime>,<contenttweaker:steel_toolmaker>,<contenttweaker:steel_toolmaker>,<contenttweaker:steel_toolmaker>],
-[<contenttweaker:steel_toolmaker>,<contenttweaker:steel_toolmaker>,<contenttweaker:steel_toolmaker>,<minecraft:slime>,<contenttweaker:reinforced_wool>,<minecraft:slime>,<contenttweaker:steel_toolmaker>,<contenttweaker:steel_toolmaker>,<contenttweaker:steel_toolmaker>],
-[<contenttweaker:steel_toolmaker>,<contenttweaker:steel_toolmaker>,<contenttweaker:steel_toolmaker>,<minecraft:slime>,<contenttweaker:reinforced_wool>,<minecraft:slime>,<contenttweaker:steel_toolmaker>,<contenttweaker:steel_toolmaker>,<contenttweaker:steel_toolmaker>],
-[<contenttweaker:steel_toolmaker>,<contenttweaker:steel_toolmaker>,<contenttweaker:steel_toolmaker>,<minecraft:slime>,<contenttweaker:reinforced_wool>,<minecraft:slime>,<contenttweaker:steel_toolmaker>,<contenttweaker:steel_toolmaker>,<contenttweaker:steel_toolmaker>],
-[<contenttweaker:steel_block>,<contenttweaker:steel_block>,<contenttweaker:steel_block>,<contenttweaker:steel_block>,<contenttweaker:steel_block>,<contenttweaker:steel_block>,<contenttweaker:steel_block>,<contenttweaker:steel_block>,<contenttweaker:steel_block>]]);
+mods.extendedcrafting.TableCrafting.addShaped(<minecraft:bowl>, [
+[<minecraft:planks:0>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:planks:0>],
+[<minecraft:stick>,<minecraft:planks:0>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:planks:0>,<minecraft:stick>],
+[<minecraft:stick>,<minecraft:stick>,<minecraft:planks:0>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:planks:0>,<minecraft:stick>,<minecraft:stick>],
+[<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:planks:0>,<minecraft:stick>,<minecraft:planks:0>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>],
+[<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:planks:0>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>],
+[<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>],
+[<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>],
+[<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>],
+[<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>,<minecraft:stick>]]);

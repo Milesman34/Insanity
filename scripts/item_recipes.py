@@ -81,18 +81,23 @@ item_recipes = [
     RecipeSwordT1("<minecraft:wooden_sword>", "<minecraft:planks:4>", "<minecraft:stick>"),
     RecipeSwordT1("<minecraft:wooden_sword>", "<minecraft:planks:5>", "<minecraft:stick>"),
 
+    RecipePickaxeT2("<minecraft:golden_pickaxe>", "<contenttweaker:angmallen_block>", "<minecraft:iron_pickaxe>", "<contenttweaker:angmallen_toolmaker>"),
     RecipePickaxeT2("<minecraft:iron_pickaxe>", "<contenttweaker:steel_block>", "<minecraft:stone_pickaxe>", "<contenttweaker:steel_toolmaker>"),
     RecipePickaxeT2("<minecraft:stone_pickaxe>", "<contenttweaker:compressed_cobblestone>", "<minecraft:wooden_pickaxe>", "<contenttweaker:stone_toolmaker>"),
 
+    RecipeAxeT2("<minecraft:golden_axe>", "<contenttweaker:angmallen_block>", "<minecraft:iron_axe>", "<contenttweaker:angmallen_toolmaker>"),
     RecipeAxeT2("<minecraft:iron_axe>", "<contenttweaker:steel_block>", "<minecraft:stone_axe>", "<contenttweaker:steel_toolmaker>"),
     RecipeAxeT2("<minecraft:stone_axe>", "<contenttweaker:compressed_cobblestone>", "<minecraft:wooden_axe>", "<contenttweaker:stone_toolmaker>"),
 
+    RecipeShovelT2("<minecraft:golden_shovel>", "<contenttweaker:angmallen_block>", "<minecraft:iron_shovel>", "<contenttweaker:angmallen_toolmaker>"),
     RecipeShovelT2("<minecraft:iron_shovel>", "<contenttweaker:steel_block>", "<minecraft:stone_shovel>", "<contenttweaker:steel_toolmaker>"),
     RecipeShovelT2("<minecraft:stone_shovel>", "<contenttweaker:compressed_cobblestone>", "<minecraft:wooden_shovel>", "<contenttweaker:stone_toolmaker>"),
 
+    RecipeHoeT2("<minecraft:golden_hoe>", "<contenttweaker:angmallen_block>", "<minecraft:iron_hoe>", "<contenttweaker:angmallen_toolmaker>"),
     RecipeHoeT2("<minecraft:iron_hoe>", "<contenttweaker:steel_block>", "<minecraft:stone_hoe>", "<contenttweaker:steel_toolmaker>"),
     RecipeHoeT2("<minecraft:stone_hoe>", "<contenttweaker:compressed_cobblestone>", "<minecraft:wooden_hoe>", "<contenttweaker:stone_toolmaker>"),
 
+    RecipeSwordT2("<minecraft:golden_sword>", "<contenttweaker:angmallen_block>", "<minecraft:iron_sword>", "<contenttweaker:angmallen_toolmaker>"),
     RecipeSwordT2("<minecraft:iron_sword>", "<contenttweaker:steel_block>", "<minecraft:stone_sword>", "<contenttweaker:steel_toolmaker>"),
     RecipeSwordT2("<minecraft:stone_sword>", "<contenttweaker:compressed_cobblestone>", "<minecraft:wooden_sword>", "<contenttweaker:stone_toolmaker>"),
 
@@ -100,18 +105,22 @@ item_recipes = [
 
     RecipeArrow("<minecraft:arrow>", "<contenttweaker:flint_block>", "<contenttweaker:reinforced_featherwool>", "<minecraft:stick>", "<contenttweaker:steel_toolmaker>"),
 
+    RecipeHelmet("<minecraft:golden_helmet>", "<contenttweaker:angmallen_block>", "<contenttweaker:angmallen_armormaker>"),
     RecipeHelmet("<minecraft:leather_helmet>", "<contenttweaker:reinforced_leather_block>", "<contenttweaker:leather_armormaker>"),
     RecipeHelmet("<minecraft:chainmail_helmet>", "<contenttweaker:chains>", "<contenttweaker:chainmail_armormaker>"),
     RecipeHelmet("<minecraft:iron_helmet>", "<contenttweaker:steel_block>", "<contenttweaker:steel_armormaker>"),
 
+    RecipeChestplate("<minecraft:golden_chestplate>", "<contenttweaker:angmallen_block>", "<contenttweaker:angmallen_armormaker>"),
     RecipeChestplate("<minecraft:leather_chestplate>", "<contenttweaker:reinforced_leather_block>", "<contenttweaker:leather_armormaker>"),
     RecipeChestplate("<minecraft:chainmail_chestplate>", "<contenttweaker:chains>", "<contenttweaker:chainmail_armormaker>"),
     RecipeChestplate("<minecraft:iron_chestplate>", "<contenttweaker:steel_block>", "<contenttweaker:steel_armormaker>"),
 
+    RecipeLeggings("<minecraft:golden_leggings>", "<contenttweaker:angmallen_block>", "<contenttweaker:angmallen_armormaker>"),
     RecipeLeggings("<minecraft:leather_leggings>", "<contenttweaker:reinforced_leather_block>", "<contenttweaker:leather_armormaker>"),
     RecipeLeggings("<minecraft:chainmail_leggings>", "<contenttweaker:chains>", "<contenttweaker:chainmail_armormaker>"),
     RecipeLeggings("<minecraft:iron_leggings>", "<contenttweaker:steel_block>", "<contenttweaker:steel_armormaker>"),
 
+    RecipeBoots("<minecraft:golden_boots>", "<contenttweaker:angmallen_block>", "<contenttweaker:angmallen_armormaker>"),
     RecipeBoots("<minecraft:leather_boots>", "<contenttweaker:reinforced_leather_block>", "<contenttweaker:leather_armormaker>"),
     RecipeBoots("<minecraft:chainmail_boots>", "<contenttweaker:chains>", "<contenttweaker:chainmail_armormaker>"),
     RecipeBoots("<minecraft:iron_boots>", "<contenttweaker:steel_block>", "<contenttweaker:steel_armormaker>"),

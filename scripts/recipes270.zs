@@ -1,10 +1,10 @@
-mods.extendedcrafting.TableCrafting.addShaped(<contenttweaker:niter_block>, [
-[<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>],
-[<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>],
-[<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>],
-[<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>],
-[<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>],
-[<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>],
-[<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>],
-[<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>],
-[<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>,<contenttweaker:niter>]]);
+mods.extendedcrafting.TableCrafting.addShaped(<contenttweaker:spider_eye_block>, [
+[<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>],
+[<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>],
+[<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>],
+[<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>],
+[<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>],
+[<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>],
+[<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>],
+[<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>],
+[<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>,<minecraft:spider_eye>]]);

@@ -138,5 +138,8 @@ items = [
     Item("manalite_nugget", recipe=Recipe2xSurroundingCheckerboard("<contenttweaker:manalite_nugget>", "<contenttweaker:aerothite_metal_former>", "<contenttweaker:molten_manalite>", "<contenttweaker:nugget_cast>", "<contenttweaker:rose_gold_ice>")),
     Item("manalite_ingot", recipe=Recipe81("<contenttweaker:manalite_ingot>", "<contenttweaker:manalite_nugget>")),
     Item("manalite_forge_brick", recipe=RecipeCheckerboard("<contenttweaker:manalite_forge_brick>", "<contenttweaker:manalite_block>", "<contenttweaker:petrothite_forge>")),
-    Item("mana_coke", recipe=Recipe2xSurrounding("<contenttweaker:mana_coke>", "<contenttweaker:manalite_refinery>", "<contenttweaker:life_infused_coke_block>", "<contenttweaker:manalite_block>"))
+    Item("mana_coke", recipe=Recipe2xSurrounding("<contenttweaker:mana_coke>", "<contenttweaker:manalite_refinery>", "<contenttweaker:life_infused_coke_block>", "<contenttweaker:manalite_block>")),
+    Item("molten_angmallen", recipe=RecipeAlloying("<contenttweaker:molten_angmallen>", "<contenttweaker:manalite_forge>", "<contenttweaker:steel_block>", "<contenttweaker:mana_coke_block>", "<minecraft:gold_block>")),
+    Item("angmallen_nugget", recipe=Recipe2xSurroundingCheckerboard("<contenttweaker:angmallen_nugget>", "<contenttweaker:manalite_metal_former>", "<contenttweaker:molten_angmallen>", "<contenttweaker:nugget_cast>", "<contenttweaker:green_ice>")),
+    Item("angmallen_ingot", recipe=Recipe81("<contenttweaker:angmallen_ingot>", "<contenttweaker:angmallen_nugget>"))
 ]

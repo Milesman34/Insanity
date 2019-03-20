@@ -1,10 +1,10 @@
-mods.extendedcrafting.TableCrafting.addShaped(<contenttweaker:depositor>, [
-[<contenttweaker:steel_block>,<contenttweaker:steel_block>,<contenttweaker:steel_block>,<contenttweaker:steel_block>,<contenttweaker:steel_block>,<contenttweaker:steel_block>,<contenttweaker:steel_block>,<contenttweaker:steel_block>,<contenttweaker:steel_block>],
-[<contenttweaker:steel_block>,<contenttweaker:condensator>,<contenttweaker:condensator>,<contenttweaker:condensator>,<contenttweaker:condensator>,<contenttweaker:condensator>,<contenttweaker:condensator>,<contenttweaker:condensator>,<contenttweaker:steel_block>],
-[<contenttweaker:steel_block>,<contenttweaker:condensator>,<contenttweaker:steel_freezer>,<contenttweaker:steel_freezer>,<contenttweaker:steel_freezer>,<contenttweaker:steel_freezer>,<contenttweaker:steel_freezer>,<contenttweaker:condensator>,<contenttweaker:steel_block>],
-[<contenttweaker:steel_block>,<contenttweaker:condensator>,<contenttweaker:steel_freezer>,<contenttweaker:steel_freezer>,<contenttweaker:steel_freezer>,<contenttweaker:steel_freezer>,<contenttweaker:steel_freezer>,<contenttweaker:condensator>,<contenttweaker:steel_block>],
-[<contenttweaker:steel_block>,<contenttweaker:condensator>,<contenttweaker:steel_freezer>,<contenttweaker:steel_freezer>,<contenttweaker:steel_freezer>,<contenttweaker:steel_freezer>,<contenttweaker:steel_freezer>,<contenttweaker:condensator>,<contenttweaker:steel_block>],
-[<contenttweaker:steel_block>,<contenttweaker:condensator>,<contenttweaker:steel_freezer>,<contenttweaker:steel_freezer>,<contenttweaker:steel_freezer>,<contenttweaker:steel_freezer>,<contenttweaker:steel_freezer>,<contenttweaker:condensator>,<contenttweaker:steel_block>],
-[<contenttweaker:steel_block>,<contenttweaker:condensator>,<contenttweaker:steel_freezer>,<contenttweaker:steel_freezer>,<contenttweaker:steel_freezer>,<contenttweaker:steel_freezer>,<contenttweaker:steel_freezer>,<contenttweaker:condensator>,<contenttweaker:steel_block>],
-[<contenttweaker:steel_block>,<contenttweaker:condensator>,<contenttweaker:condensator>,<contenttweaker:condensator>,<contenttweaker:condensator>,<contenttweaker:condensator>,<contenttweaker:condensator>,<contenttweaker:condensator>,<contenttweaker:steel_block>],
-[<contenttweaker:steel_block>,<contenttweaker:steel_block>,<contenttweaker:steel_block>,<contenttweaker:steel_block>,<contenttweaker:steel_block>,<contenttweaker:steel_block>,<contenttweaker:steel_block>,<contenttweaker:steel_block>,<contenttweaker:steel_block>]]);
+mods.extendedcrafting.TableCrafting.addShaped(<contenttweaker:flint_block>, [
+[<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>],
+[<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>],
+[<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>],
+[<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>],
+[<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>],
+[<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>],
+[<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>],
+[<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>],
+[<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>,<minecraft:flint>]]);

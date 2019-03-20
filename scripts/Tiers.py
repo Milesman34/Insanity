@@ -30,5 +30,6 @@ tiers = {
     "tartarite": Tier(6666.0, 666666.0),
     "cobble2x": Tier(2147483646.0, 2147483646.0),
     "petrothite": Tier(12345.0, 1234567.0),
-    "manalite": Tier(32768.0, 2097152.0)
+    "manalite": Tier(32768.0, 2097152.0),
+    "angmallen": Tier(65536.0, 69696969.0)
 }
