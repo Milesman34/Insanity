@@ -3958,7 +3958,9 @@
     },
     "76:10": {
       "questID:3": 76,
-      "preRequisites:11": [],
+      "preRequisites:11": [
+        157
+      ],
       "properties:10": {
         "betterquesting:10": {
           "issilent:1": 0,
@@ -3966,7 +3968,7 @@
           "lockedprogress:1": 0,
           "tasklogic:8": "AND",
           "repeattime:3": -1,
-          "visibility:8": "NORMAL",
+          "visibility:8": "HIDDEN",
           "simultaneous:1": 0,
           "icon:10": {
             "id:8": "minecraft:dragon_egg",
@@ -3980,102 +3982,14 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "The True Ending",
+          "name:8": "The End",
           "desc:8": "Congratulations.\n\nYou have beaten the hardest modpack in all of existence. You have presevered through obstacles most players wouldn\u0027t stand a chance against. You have crafted the decillions of items necessary to win, and, when all odds were against you, defeated the evil Ender Dragon. Your monumental victory over the hardest modpack is shown, as you have finally won. You are free."
         }
       },
       "tasks:9": {
         "0:10": {
-          "ignoreNBT:1": 1,
           "index:3": 0,
-          "targetNBT:10": {
-            "HurtByTimestamp:3": 0,
-            "Attributes:9": {
-              "0:10": {
-                "Base:6": 200.0,
-                "Name:8": "generic.maxHealth"
-              },
-              "1:10": {
-                "Base:6": 0.0,
-                "Name:8": "generic.knockbackResistance"
-              },
-              "2:10": {
-                "Base:6": 0.699999988079071,
-                "Name:8": "generic.movementSpeed"
-              },
-              "3:10": {
-                "Base:6": 0.0,
-                "Name:8": "generic.armor"
-              },
-              "4:10": {
-                "Base:6": 0.0,
-                "Name:8": "generic.armorToughness"
-              },
-              "5:10": {
-                "Base:6": 16.0,
-                "Name:8": "generic.followRange"
-              }
-            },
-            "Invulnerable:1": 0,
-            "FallFlying:1": 0,
-            "PortalCooldown:3": 0,
-            "AbsorptionAmount:5": 0.0,
-            "FallDistance:5": 0.0,
-            "DragonPhase:3": 10,
-            "DeathTime:2": 0,
-            "HandDropChances:9": {
-              "0:5": 0.085,
-              "1:5": 0.085
-            },
-            "PersistenceRequired:1": 0,
-            "id:8": "minecraft:ender_dragon",
-            "Motion:9": {
-              "0:6": 0.0,
-              "1:6": 0.0,
-              "2:6": 0.0
-            },
-            "Leashed:1": 0,
-            "UUIDLeast:4": -8799415381124449122,
-            "Health:5": 200.0,
-            "LeftHanded:1": 0,
-            "Air:2": 0,
-            "OnGround:1": 0,
-            "Dimension:3": 0,
-            "Rotation:9": {
-              "0:5": 0.0,
-              "1:5": 0.0
-            },
-            "UpdateBlocked:1": 0,
-            "HandItems:9": {
-              "0:10": {},
-              "1:10": {}
-            },
-            "ArmorDropChances:9": {
-              "0:5": 0.085,
-              "1:5": 0.085,
-              "2:5": 0.085,
-              "3:5": 0.085
-            },
-            "UUIDMost:4": 5601772257300333186,
-            "Pos:9": {
-              "0:6": 0.0,
-              "1:6": 0.0,
-              "2:6": 0.0
-            },
-            "Fire:2": 0,
-            "ArmorItems:9": {
-              "0:10": {},
-              "1:10": {},
-              "2:10": {},
-              "3:10": {}
-            },
-            "CanPickUpLoot:1": 0,
-            "HurtTime:2": 0
-          },
-          "required:3": 1,
-          "taskID:8": "bq_standard:hunt",
-          "target:8": "minecraft:ender_dragon",
-          "subtypes:1": 1
+          "taskID:8": "bq_standard:checkbox"
         }
       },
       "rewards:9": {
@@ -27192,6 +27106,3807 @@
           }
         }
       }
+    },
+    "157:10": {
+      "questID:3": 157,
+      "preRequisites:11": [
+        158
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "minecraft:dragon_egg",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "The End?",
+          "desc:8": "You have done well to make it this far, but you will not survive the battle ahead. Good luck."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "targetNBT:10": {
+            "HurtByTimestamp:3": 0,
+            "Attributes:9": {
+              "0:10": {
+                "Base:6": 200.0,
+                "Name:8": "generic.maxHealth"
+              },
+              "1:10": {
+                "Base:6": 0.0,
+                "Name:8": "generic.knockbackResistance"
+              },
+              "2:10": {
+                "Base:6": 0.699999988079071,
+                "Name:8": "generic.movementSpeed"
+              },
+              "3:10": {
+                "Base:6": 0.0,
+                "Name:8": "generic.armor"
+              },
+              "4:10": {
+                "Base:6": 0.0,
+                "Name:8": "generic.armorToughness"
+              },
+              "5:10": {
+                "Base:6": 16.0,
+                "Name:8": "generic.followRange"
+              }
+            },
+            "Invulnerable:1": 0,
+            "FallFlying:1": 0,
+            "PortalCooldown:3": 0,
+            "AbsorptionAmount:5": 0.0,
+            "FallDistance:5": 0.0,
+            "DragonPhase:3": 10,
+            "DeathTime:2": 0,
+            "HandDropChances:9": {
+              "0:5": 0.085,
+              "1:5": 0.085
+            },
+            "PersistenceRequired:1": 0,
+            "id:8": "minecraft:ender_dragon",
+            "Motion:9": {
+              "0:6": 0.0,
+              "1:6": 0.0,
+              "2:6": 0.0
+            },
+            "Leashed:1": 0,
+            "UUIDLeast:4": -8799415381124449122,
+            "Health:5": 200.0,
+            "LeftHanded:1": 0,
+            "Air:2": 0,
+            "OnGround:1": 0,
+            "Dimension:3": 0,
+            "Rotation:9": {
+              "0:5": 0.0,
+              "1:5": 0.0
+            },
+            "UpdateBlocked:1": 0,
+            "HandItems:9": {
+              "0:10": {},
+              "1:10": {}
+            },
+            "ArmorDropChances:9": {
+              "0:5": 0.085,
+              "1:5": 0.085,
+              "2:5": 0.085,
+              "3:5": 0.085
+            },
+            "UUIDMost:4": 5601772257300333186,
+            "Pos:9": {
+              "0:6": 0.0,
+              "1:6": 0.0,
+              "2:6": 0.0
+            },
+            "Fire:2": 0,
+            "ArmorItems:9": {
+              "0:10": {},
+              "1:10": {},
+              "2:10": {},
+              "3:10": {}
+            },
+            "CanPickUpLoot:1": 0,
+            "HurtTime:2": 0
+          },
+          "required:3": 1,
+          "taskID:8": "bq_standard:hunt",
+          "target:8": "minecraft:ender_dragon",
+          "subtypes:1": 1
+        }
+      },
+      "rewards:9": {}
+    },
+    "158:10": {
+      "questID:3": 158,
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": 0,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "minecraft:ender_eye",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "stupid crafting recipe",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+"id:8":"minecraft:cobblestone",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"1:10": {
+"id:8":"minecraft:stone",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":1
+},
+"2:10": {
+"id:8":"minecraft:stone",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":3
+},
+"3:10": {
+"id:8":"minecraft:stone",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":5
+},
+"4:10": {
+"id:8":"minecraft:grass",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"5:10": {
+"id:8":"minecraft:dirt",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"6:10": {
+"id:8":"minecraft:dirt",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":1
+},
+"7:10": {
+"id:8":"minecraft:dirt",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":2
+},
+"8:10": {
+"id:8":"minecraft:planks",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"9:10": {
+"id:8":"minecraft:planks",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":1
+},
+"10:10": {
+"id:8":"minecraft:planks",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":2
+},
+"11:10": {
+"id:8":"minecraft:planks",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":3
+},
+"12:10": {
+"id:8":"minecraft:planks",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":4
+},
+"13:10": {
+"id:8":"minecraft:planks",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":5
+},
+"14:10": {
+"id:8":"minecraft:bedrock",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"15:10": {
+"id:8":"minecraft:sand",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"16:10": {
+"id:8":"minecraft:sand",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":1
+},
+"17:10": {
+"id:8":"minecraft:gravel",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"18:10": {
+"id:8":"minecraft:gold_ore",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"19:10": {
+"id:8":"minecraft:iron_ore",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"20:10": {
+"id:8":"minecraft:coal_ore",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"21:10": {
+"id:8":"minecraft:log",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"22:10": {
+"id:8":"minecraft:log",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":1
+},
+"23:10": {
+"id:8":"minecraft:log",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":2
+},
+"24:10": {
+"id:8":"minecraft:log",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":3
+},
+"25:10": {
+"id:8":"minecraft:sponge",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":1
+},
+"26:10": {
+"id:8":"minecraft:glass",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"27:10": {
+"id:8":"minecraft:lapis_ore",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"28:10": {
+"id:8":"minecraft:brick_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"29:10": {
+"id:8":"minecraft:bookshelf",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"30:10": {
+"id:8":"minecraft:obsidian",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"31:10": {
+"id:8":"minecraft:diamond_ore",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"32:10": {
+"id:8":"minecraft:diamond_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"33:10": {
+"id:8":"minecraft:redstone_ore",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"34:10": {
+"id:8":"minecraft:ice",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"35:10": {
+"id:8":"minecraft:snow",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"36:10": {
+"id:8":"minecraft:clay",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"37:10": {
+"id:8":"minecraft:wool",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"38:10": {
+"id:8":"minecraft:pumpkin",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"39:10": {
+"id:8":"minecraft:netherrack",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"40:10": {
+"id:8":"minecraft:soul_sand",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"41:10": {
+"id:8":"minecraft:glowstone",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"42:10": {
+"id:8":"minecraft:sandstone",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"43:10": {
+"id:8":"minecraft:gold_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"44:10": {
+"id:8":"minecraft:iron_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"45:10": {
+"id:8":"minecraft:melon_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"46:10": {
+"id:8":"minecraft:mycelium",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"47:10": {
+"id:8":"minecraft:nether_brick",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"48:10": {
+"id:8":"minecraft:end_stone",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"49:10": {
+"id:8":"minecraft:emerald_ore",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"50:10": {
+"id:8":"minecraft:quartz_ore",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"51:10": {
+"id:8":"minecraft:log2",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"52:10": {
+"id:8":"minecraft:log2",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":1
+},
+"53:10": {
+"id:8":"minecraft:hay_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"54:10": {
+"id:8":"minecraft:hardened_clay",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"55:10": {
+"id:8":"minecraft:coal_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"56:10": {
+"id:8":"minecraft:packed_ice",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"57:10": {
+"id:8":"minecraft:sapling",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"58:10": {
+"id:8":"minecraft:sapling",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":1
+},
+"59:10": {
+"id:8":"minecraft:sapling",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":2
+},
+"60:10": {
+"id:8":"minecraft:sapling",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":3
+},
+"61:10": {
+"id:8":"minecraft:sapling",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":4
+},
+"62:10": {
+"id:8":"minecraft:sapling",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":5
+},
+"63:10": {
+"id:8":"minecraft:leaves",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"64:10": {
+"id:8":"minecraft:leaves",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":1
+},
+"65:10": {
+"id:8":"minecraft:leaves",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":2
+},
+"66:10": {
+"id:8":"minecraft:leaves",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":3
+},
+"67:10": {
+"id:8":"minecraft:web",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"68:10": {
+"id:8":"minecraft:tallgrass",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":1
+},
+"69:10": {
+"id:8":"minecraft:tallgrass",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":2
+},
+"70:10": {
+"id:8":"minecraft:deadbush",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"71:10": {
+"id:8":"minecraft:yellow_flower",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"72:10": {
+"id:8":"minecraft:red_flower",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"73:10": {
+"id:8":"minecraft:red_flower",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":1
+},
+"74:10": {
+"id:8":"minecraft:red_flower",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":2
+},
+"75:10": {
+"id:8":"minecraft:red_flower",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":3
+},
+"76:10": {
+"id:8":"minecraft:red_flower",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":4
+},
+"77:10": {
+"id:8":"minecraft:red_flower",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":5
+},
+"78:10": {
+"id:8":"minecraft:red_flower",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":6
+},
+"79:10": {
+"id:8":"minecraft:red_flower",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":7
+},
+"80:10": {
+"id:8":"minecraft:red_flower",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":8
+},
+"81:10": {
+"id:8":"minecraft:brown_mushroom",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"82:10": {
+"id:8":"minecraft:red_mushroom",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"83:10": {
+"id:8":"minecraft:crafting_table",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"84:10": {
+"id:8":"minecraft:furnace",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"85:10": {
+"id:8":"minecraft:cactus",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"86:10": {
+"id:8":"minecraft:monster_egg",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"87:10": {
+"id:8":"minecraft:monster_egg",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":1
+},
+"88:10": {
+"id:8":"minecraft:monster_egg",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":2
+},
+"89:10": {
+"id:8":"minecraft:monster_egg",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":3
+},
+"90:10": {
+"id:8":"minecraft:monster_egg",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":4
+},
+"91:10": {
+"id:8":"minecraft:monster_egg",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":5
+},
+"92:10": {
+"id:8":"minecraft:iron_bars",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"93:10": {
+"id:8":"minecraft:glass_pane",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"94:10": {
+"id:8":"minecraft:vine",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"95:10": {
+"id:8":"minecraft:waterlily",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"96:10": {
+"id:8":"minecraft:enchanting_table",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"97:10": {
+"id:8":"minecraft:anvil",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"98:10": {
+"id:8":"minecraft:leaves2",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"99:10": {
+"id:8":"minecraft:leaves2",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":1
+},
+"100:10": {
+"id:8":"minecraft:slime",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"101:10": {
+"id:8":"minecraft:double_plant",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"102:10": {
+"id:8":"minecraft:double_plant",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":1
+},
+"103:10": {
+"id:8":"minecraft:double_plant",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":2
+},
+"104:10": {
+"id:8":"minecraft:double_plant",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":3
+},
+"105:10": {
+"id:8":"minecraft:double_plant",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":4
+},
+"106:10": {
+"id:8":"minecraft:double_plant",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":5
+},
+"107:10": {
+"id:8":"minecraft:chorus_plant",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"108:10": {
+"id:8":"minecraft:chorus_flower",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"109:10": {
+"id:8":"minecraft:skull",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"110:10": {
+"id:8":"minecraft:skull",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":1
+},
+"111:10": {
+"id:8":"minecraft:skull",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":2
+},
+"112:10": {
+"id:8":"minecraft:skull",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":3
+},
+"113:10": {
+"id:8":"minecraft:skull",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":4
+},
+"114:10": {
+"id:8":"minecraft:redstone_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"115:10": {
+"id:8":"minecraft:redstone",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"116:10": {
+"id:8":"minecraft:beacon",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"117:10": {
+"id:8":"minecraft:iron_shovel",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"118:10": {
+"id:8":"minecraft:iron_pickaxe",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"119:10": {
+"id:8":"minecraft:iron_axe",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"120:10": {
+"id:8":"minecraft:flint_and_steel",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"121:10": {
+"id:8":"minecraft:apple",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"122:10": {
+"id:8":"minecraft:bow",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"123:10": {
+"id:8":"minecraft:arrow",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"124:10": {
+"id:8":"minecraft:coal",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"125:10": {
+"id:8":"minecraft:coal",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":1
+},
+"126:10": {
+"id:8":"minecraft:diamond",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"127:10": {
+"id:8":"minecraft:iron_ingot",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"128:10": {
+"id:8":"minecraft:gold_ingot",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"129:10": {
+"id:8":"minecraft:iron_sword",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"130:10": {
+"id:8":"minecraft:wooden_sword",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"131:10": {
+"id:8":"minecraft:wooden_shovel",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"132:10": {
+"id:8":"minecraft:wooden_pickaxe",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"133:10": {
+"id:8":"minecraft:wooden_axe",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"134:10": {
+"id:8":"minecraft:stone_sword",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"135:10": {
+"id:8":"minecraft:stone_shovel",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"136:10": {
+"id:8":"minecraft:stone_pickaxe",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"137:10": {
+"id:8":"minecraft:stone_axe",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"138:10": {
+"id:8":"minecraft:stick",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"139:10": {
+"id:8":"minecraft:bowl",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"140:10": {
+"id:8":"minecraft:mushroom_stew",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"141:10": {
+"id:8":"minecraft:golden_sword",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"142:10": {
+"id:8":"minecraft:golden_shovel",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"143:10": {
+"id:8":"minecraft:golden_pickaxe",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"144:10": {
+"id:8":"minecraft:golden_axe",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"145:10": {
+"id:8":"minecraft:string",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"146:10": {
+"id:8":"minecraft:feather",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"147:10": {
+"id:8":"minecraft:gunpowder",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"148:10": {
+"id:8":"minecraft:wooden_hoe",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"149:10": {
+"id:8":"minecraft:stone_hoe",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"150:10": {
+"id:8":"minecraft:iron_hoe",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"151:10": {
+"id:8":"minecraft:golden_hoe",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"152:10": {
+"id:8":"minecraft:wheat_seeds",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"153:10": {
+"id:8":"minecraft:wheat",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"154:10": {
+"id:8":"minecraft:bread",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"155:10": {
+"id:8":"minecraft:leather_helmet",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"156:10": {
+"id:8":"minecraft:leather_chestplate",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"157:10": {
+"id:8":"minecraft:leather_leggings",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"158:10": {
+"id:8":"minecraft:leather_boots",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"159:10": {
+"id:8":"minecraft:chainmail_helmet",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"160:10": {
+"id:8":"minecraft:chainmail_chestplate",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"161:10": {
+"id:8":"minecraft:chainmail_leggings",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"162:10": {
+"id:8":"minecraft:chainmail_boots",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"163:10": {
+"id:8":"minecraft:iron_helmet",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"164:10": {
+"id:8":"minecraft:iron_leggings",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"165:10": {
+"id:8":"minecraft:iron_boots",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"166:10": {
+"id:8":"minecraft:iron_chestplate",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"167:10": {
+"id:8":"minecraft:golden_chestplate",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"168:10": {
+"id:8":"minecraft:golden_helmet",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"169:10": {
+"id:8":"minecraft:golden_leggings",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"170:10": {
+"id:8":"minecraft:golden_boots",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"171:10": {
+"id:8":"minecraft:flint",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"172:10": {
+"id:8":"minecraft:porkchop",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"173:10": {
+"id:8":"minecraft:cooked_porkchop",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"174:10": {
+"id:8":"minecraft:golden_apple",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"175:10": {
+"id:8":"minecraft:golden_apple",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":1
+},
+"176:10": {
+"id:8":"minecraft:bucket",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"177:10": {
+"id:8":"minecraft:water_bucket",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"178:10": {
+"id:8":"minecraft:lava_bucket",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"179:10": {
+"id:8":"minecraft:snowball",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"180:10": {
+"id:8":"minecraft:leather",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"181:10": {
+"id:8":"minecraft:milk_bucket",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"182:10": {
+"id:8":"minecraft:brick",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"183:10": {
+"id:8":"minecraft:clay_ball",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"184:10": {
+"id:8":"minecraft:reeds",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"185:10": {
+"id:8":"minecraft:paper",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"186:10": {
+"id:8":"minecraft:book",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"187:10": {
+"id:8":"minecraft:slime_ball",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"188:10": {
+"id:8":"minecraft:egg",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"189:10": {
+"id:8":"minecraft:fishing_rod",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"190:10": {
+"id:8":"minecraft:glowstone_dust",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"191:10": {
+"id:8":"minecraft:fish",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"192:10": {
+"id:8":"minecraft:fish",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":1
+},
+"193:10": {
+"id:8":"minecraft:fish",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":2
+},
+"194:10": {
+"id:8":"minecraft:fish",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":3
+},
+"195:10": {
+"id:8":"minecraft:cooked_fish",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"196:10": {
+"id:8":"minecraft:cooked_fish",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":1
+},
+"197:10": {
+"id:8":"minecraft:dye",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"198:10": {
+"id:8":"minecraft:dye",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":3
+},
+"199:10": {
+"id:8":"minecraft:dye",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":4
+},
+"200:10": {
+"id:8":"minecraft:bone",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"201:10": {
+"id:8":"minecraft:sugar",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"202:10": {
+"id:8":"minecraft:cake",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"203:10": {
+"id:8":"minecraft:cookie",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"204:10": {
+"id:8":"minecraft:shears",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"205:10": {
+"id:8":"minecraft:melon",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"206:10": {
+"id:8":"minecraft:pumpkin_seeds",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"207:10": {
+"id:8":"minecraft:melon_seeds",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"208:10": {
+"id:8":"minecraft:beef",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"209:10": {
+"id:8":"minecraft:cooked_beef",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"210:10": {
+"id:8":"minecraft:chicken",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"211:10": {
+"id:8":"minecraft:cooked_chicken",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"212:10": {
+"id:8":"minecraft:rotten_flesh",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"213:10": {
+"id:8":"minecraft:ender_pearl",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"214:10": {
+"id:8":"minecraft:blaze_rod",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"215:10": {
+"id:8":"minecraft:ghast_tear",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"216:10": {
+"id:8":"minecraft:gold_nugget",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"217:10": {
+"id:8":"minecraft:nether_wart",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"218:10": {
+"id:8":"minecraft:glass_bottle",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"219:10": {
+"id:8":"minecraft:spider_eye",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"220:10": {
+"id:8":"minecraft:emerald",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"221:10": {
+"id:8":"minecraft:carrot",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"222:10": {
+"id:8":"minecraft:potato",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"223:10": {
+"id:8":"minecraft:baked_potato",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"224:10": {
+"id:8":"minecraft:poisonous_potato",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"225:10": {
+"id:8":"minecraft:nether_star",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"226:10": {
+"id:8":"minecraft:pumpkin_pie",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"227:10": {
+"id:8":"minecraft:netherbrick",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"228:10": {
+"id:8":"minecraft:quartz",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"229:10": {
+"id:8":"minecraft:prismarine_shard",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"230:10": {
+"id:8":"minecraft:prismarine_crystals",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"231:10": {
+"id:8":"minecraft:rabbit",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"232:10": {
+"id:8":"minecraft:cooked_rabbit",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"233:10": {
+"id:8":"minecraft:rabbit_stew",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"234:10": {
+"id:8":"minecraft:rabbit_foot",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"235:10": {
+"id:8":"minecraft:rabbit_hide",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"236:10": {
+"id:8":"minecraft:lead",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"237:10": {
+"id:8":"minecraft:name_tag",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"238:10": {
+"id:8":"minecraft:mutton",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"239:10": {
+"id:8":"minecraft:cooked_mutton",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"240:10": {
+"id:8":"minecraft:chorus_fruit",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"241:10": {
+"id:8":"minecraft:beetroot",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"242:10": {
+"id:8":"minecraft:beetroot_seeds",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"243:10": {
+"id:8":"minecraft:beetroot_soup",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"244:10": {
+"id:8":"minecraft:dragon_breath",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"245:10": {
+"id:8":"minecraft:shield",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"246:10": {
+"id:8":"minecraft:shulker_shell",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"247:10": {
+"id:8":"minecraft:iron_nugget",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"248:10": {
+"id:8":"minecraft:record_13",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"249:10": {
+"id:8":"minecraft:record_cat",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"250:10": {
+"id:8":"minecraft:record_blocks",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"251:10": {
+"id:8":"minecraft:record_chirp",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"252:10": {
+"id:8":"minecraft:record_far",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"253:10": {
+"id:8":"minecraft:record_mall",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"254:10": {
+"id:8":"minecraft:record_mellohi",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"255:10": {
+"id:8":"minecraft:record_stal",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"256:10": {
+"id:8":"minecraft:record_strad",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"257:10": {
+"id:8":"minecraft:record_ward",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"258:10": {
+"id:8":"minecraft:record_11",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"259:10": {
+"id:8":"minecraft:record_wait",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"260:10": {
+"id:8":"minecraft:brown_mushroom_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"261:10": {
+"id:8":"minecraft:red_mushroom_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"262:10": {
+"id:8":"extendedcrafting:table_ultimate",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"263:10": {
+"id:8":"contenttweaker:infernal_coke_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"264:10": {
+"id:8":"contenttweaker:reinforced_steel_forge",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"265:10": {
+"id:8":"contenttweaker:blaze_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"266:10": {
+"id:8":"contenttweaker:pyrothite_tank_glass",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"267:10": {
+"id:8":"contenttweaker:tartarite_chemistry_station",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"268:10": {
+"id:8":"contenttweaker:reinforced_steel_forge_bricks",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"269:10": {
+"id:8":"contenttweaker:mana_dust_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"270:10": {
+"id:8":"contenttweaker:manalite_forge_bricks",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"271:10": {
+"id:8":"contenttweaker:mithril_forge",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"272:10": {
+"id:8":"contenttweaker:aerothite_metal_former",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"273:10": {
+"id:8":"contenttweaker:gas_separator",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"274:10": {
+"id:8":"contenttweaker:steel_tank",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"275:10": {
+"id:8":"contenttweaker:steel_forge_controller",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"276:10": {
+"id:8":"contenttweaker:pyrothite_forge_controller",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"277:10": {
+"id:8":"contenttweaker:freezer",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"278:10": {
+"id:8":"contenttweaker:angmallen_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"279:10": {
+"id:8":"contenttweaker:pyrothite_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"280:10": {
+"id:8":"contenttweaker:steel_oven",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"281:10": {
+"id:8":"contenttweaker:doubly_compresed_cobblestone",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"282:10": {
+"id:8":"contenttweaker:pyrothite_tank",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"283:10": {
+"id:8":"contenttweaker:cryothite_freezer",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"284:10": {
+"id:8":"contenttweaker:leather_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"285:10": {
+"id:8":"contenttweaker:angmallen_toolmaker",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"286:10": {
+"id:8":"contenttweaker:manalite_refinery",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"287:10": {
+"id:8":"contenttweaker:beetroot_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"288:10": {
+"id:8":"contenttweaker:reinforced_steel_tank_glass",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"289:10": {
+"id:8":"contenttweaker:potato_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"290:10": {
+"id:8":"contenttweaker:reinforced_steel_tank_controller",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"291:10": {
+"id:8":"contenttweaker:reinforced_steel_forge_controller",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"292:10": {
+"id:8":"contenttweaker:petrothite_condensator",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"293:10": {
+"id:8":"contenttweaker:adamantium_forge",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"294:10": {
+"id:8":"contenttweaker:charcoal_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"295:10": {
+"id:8":"contenttweaker:altarus_glass",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"296:10": {
+"id:8":"contenttweaker:petrothite_forge_bricks",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"297:10": {
+"id:8":"contenttweaker:cryotheum_dust_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"298:10": {
+"id:8":"contenttweaker:tartarite_tank_glass",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"299:10": {
+"id:8":"contenttweaker:tartarite_forge_bricks",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"300:10": {
+"id:8":"contenttweaker:blue_ice",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"301:10": {
+"id:8":"contenttweaker:pyrothite_dust_refiner",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"302:10": {
+"id:8":"contenttweaker:air_altar",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"303:10": {
+"id:8":"contenttweaker:manalite_forge",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"304:10": {
+"id:8":"contenttweaker:carrot_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"305:10": {
+"id:8":"contenttweaker:rose_gold_ice",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"306:10": {
+"id:8":"contenttweaker:leather_armormaker",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"307:10": {
+"id:8":"contenttweaker:paper_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"308:10": {
+"id:8":"contenttweaker:altarus_forge",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"309:10": {
+"id:8":"contenttweaker:reinforced_steel_glass_production_oven",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"310:10": {
+"id:8":"contenttweaker:tartarite_forge_controller",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"311:10": {
+"id:8":"contenttweaker:adamantium_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"312:10": {
+"id:8":"contenttweaker:reinforced_steel_dust_mixer",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"313:10": {
+"id:8":"contenttweaker:tartarite_tank",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"314:10": {
+"id:8":"contenttweaker:triply_compressed_cobblestone",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"315:10": {
+"id:8":"contenttweaker:castmaker",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"316:10": {
+"id:8":"contenttweaker:petrothite_depositor",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"317:10": {
+"id:8":"contenttweaker:gunpowder_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"318:10": {
+"id:8":"contenttweaker:cocoa_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"319:10": {
+"id:8":"contenttweaker:flesh_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"320:10": {
+"id:8":"contenttweaker:green_ice",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"321:10": {
+"id:8":"contenttweaker:altarus_forge_bricks",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"322:10": {
+"id:8":"contenttweaker:infernium_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"323:10": {
+"id:8":"contenttweaker:tartarite_refinery",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"324:10": {
+"id:8":"contenttweaker:petrothite_tank_wall",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"325:10": {
+"id:8":"contenttweaker:pyrothite_tank_wall",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"326:10": {
+"id:8":"contenttweaker:steel_forge_bricks",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"327:10": {
+"id:8":"contenttweaker:steel_metal_former",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"328:10": {
+"id:8":"contenttweaker:petrothite_chemistry_station",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"329:10": {
+"id:8":"contenttweaker:reinforced_steel_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"330:10": {
+"id:8":"contenttweaker:reinforced_featherwool",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"331:10": {
+"id:8":"contenttweaker:altarus_condensator",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"332:10": {
+"id:8":"contenttweaker:altarus_tank",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"333:10": {
+"id:8":"contenttweaker:egg_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"334:10": {
+"id:8":"contenttweaker:sugar_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"335:10": {
+"id:8":"contenttweaker:blast_furnace",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"336:10": {
+"id:8":"contenttweaker:altarus_refinery",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"337:10": {
+"id:8":"contenttweaker:dust_refiner",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"338:10": {
+"id:8":"contenttweaker:chains",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"339:10": {
+"id:8":"contenttweaker:pyrothite_chemistry_station",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"340:10": {
+"id:8":"contenttweaker:pyrothite_glass_production_oven",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"341:10": {
+"id:8":"contenttweaker:chainmail_armormaker",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"342:10": {
+"id:8":"contenttweaker:block_basin",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"343:10": {
+"id:8":"contenttweaker:pyrothite_dust_mixer",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"344:10": {
+"id:8":"contenttweaker:pyrothite_tank_controller",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"345:10": {
+"id:8":"contenttweaker:refinery",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"346:10": {
+"id:8":"contenttweaker:depositor",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"347:10": {
+"id:8":"contenttweaker:steel_freezer",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"348:10": {
+"id:8":"contenttweaker:blizz_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"349:10": {
+"id:8":"contenttweaker:block_basin_mk4",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"350:10": {
+"id:8":"contenttweaker:block_basin_mk3",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"351:10": {
+"id:8":"contenttweaker:block_basin_mk2",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"352:10": {
+"id:8":"contenttweaker:altarus_forge_controller",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"353:10": {
+"id:8":"contenttweaker:sugar_cane_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"354:10": {
+"id:8":"contenttweaker:pyrothite_forge",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"355:10": {
+"id:8":"contenttweaker:platinum_infused_glass",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"356:10": {
+"id:8":"contenttweaker:condensator",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"357:10": {
+"id:8":"contenttweaker:petrothite_glass_production_oven",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"358:10": {
+"id:8":"contenttweaker:basalz_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"359:10": {
+"id:8":"contenttweaker:infernium_forge_controller",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"360:10": {
+"id:8":"contenttweaker:cryothite_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"361:10": {
+"id:8":"contenttweaker:coke_oven_bricks",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"362:10": {
+"id:8":"contenttweaker:petrotheum_dust_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"363:10": {
+"id:8":"contenttweaker:altarus_tank_glass",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"364:10": {
+"id:8":"contenttweaker:reinforced_steel_depositor",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"365:10": {
+"id:8":"contenttweaker:coke_oven",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"366:10": {
+"id:8":"contenttweaker:pink_ice",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"367:10": {
+"id:8":"contenttweaker:tartarite_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"368:10": {
+"id:8":"contenttweaker:tartarite_tank_wall",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"369:10": {
+"id:8":"contenttweaker:quadruply_compressed_cobblestone",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"370:10": {
+"id:8":"contenttweaker:adamantium_forge_bricks",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"371:10": {
+"id:8":"contenttweaker:aerothite_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"372:10": {
+"id:8":"contenttweaker:reinforced_glass",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"373:10": {
+"id:8":"contenttweaker:greenhouse",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"374:10": {
+"id:8":"contenttweaker:breaking_chamber",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"375:10": {
+"id:8":"contenttweaker:blast_furnace_bricks",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"376:10": {
+"id:8":"contenttweaker:steel_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"377:10": {
+"id:8":"contenttweaker:blast_furnace_controller",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"378:10": {
+"id:8":"contenttweaker:reinforced_steel_condensator",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"379:10": {
+"id:8":"contenttweaker:tartarite_depositor",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"380:10": {
+"id:8":"contenttweaker:compressed_netherrack",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"381:10": {
+"id:8":"contenttweaker:steel_toolmaker",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"382:10": {
+"id:8":"contenttweaker:reinforced_steel_dust_refiner",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"383:10": {
+"id:8":"contenttweaker:earth_altar",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"384:10": {
+"id:8":"contenttweaker:tartarite_tank_controller",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"385:10": {
+"id:8":"contenttweaker:pyrotheum_dust_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"386:10": {
+"id:8":"contenttweaker:cryothite_metal_former",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"387:10": {
+"id:8":"contenttweaker:forge",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"388:10": {
+"id:8":"contenttweaker:compressed_soulsand",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"389:10": {
+"id:8":"contenttweaker:reinforced_steel_chemistry_station",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"390:10": {
+"id:8":"contenttweaker:infernium_refinery",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"391:10": {
+"id:8":"contenttweaker:petrothite_tank",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"392:10": {
+"id:8":"contenttweaker:petrothite_dust_refiner",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"393:10": {
+"id:8":"contenttweaker:altarus_glass_production_oven",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"394:10": {
+"id:8":"contenttweaker:platinum_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"395:10": {
+"id:8":"contenttweaker:banana_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"396:10": {
+"id:8":"contenttweaker:petrothite_forge",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"397:10": {
+"id:8":"contenttweaker:manalite_metal_former",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"398:10": {
+"id:8":"contenttweaker:reinforced_obsidian",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"399:10": {
+"id:8":"contenttweaker:pyrothite_forge_bricks",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"400:10": {
+"id:8":"contenttweaker:life_infused_coke_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"401:10": {
+"id:8":"contenttweaker:life_altar",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"402:10": {
+"id:8":"contenttweaker:altarus_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"403:10": {
+"id:8":"contenttweaker:steel_armormaker",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"404:10": {
+"id:8":"contenttweaker:blitz_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"405:10": {
+"id:8":"contenttweaker:petrothite_tank_glass",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"406:10": {
+"id:8":"contenttweaker:compressed_sandstone",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"407:10": {
+"id:8":"contenttweaker:purple_ice",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"408:10": {
+"id:8":"contenttweaker:reinforced_steel_tank_wall",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"409:10": {
+"id:8":"contenttweaker:dust_mixer",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"410:10": {
+"id:8":"contenttweaker:spider_eye_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"411:10": {
+"id:8":"contenttweaker:petrothite_dust_mixer",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"412:10": {
+"id:8":"contenttweaker:stone_toolmaker",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"413:10": {
+"id:8":"contenttweaker:petrothite_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"414:10": {
+"id:8":"contenttweaker:manalite_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"415:10": {
+"id:8":"contenttweaker:mithril_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"416:10": {
+"id:8":"contenttweaker:altarus_tank_wall",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"417:10": {
+"id:8":"contenttweaker:sulfur_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"418:10": {
+"id:8":"contenttweaker:reinforced_wool",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"419:10": {
+"id:8":"contenttweaker:tartarite_dust_mixer",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"420:10": {
+"id:8":"contenttweaker:steel_forge",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"421:10": {
+"id:8":"contenttweaker:tartarite_glass_production_oven",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"422:10": {
+"id:8":"contenttweaker:angmallen_armormaker",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"423:10": {
+"id:8":"contenttweaker:coke_oven_controller",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"424:10": {
+"id:8":"contenttweaker:altarus_depositor",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"425:10": {
+"id:8":"contenttweaker:tartarite_condensator",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"426:10": {
+"id:8":"contenttweaker:niter_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"427:10": {
+"id:8":"contenttweaker:compression_chamber",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"428:10": {
+"id:8":"contenttweaker:mithril_forge_bricks",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"429:10": {
+"id:8":"contenttweaker:evaporator",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"430:10": {
+"id:8":"contenttweaker:manalite_freezer",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"431:10": {
+"id:8":"contenttweaker:apple_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"432:10": {
+"id:8":"contenttweaker:tartarite_glass",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"433:10": {
+"id:8":"contenttweaker:chemistry_station",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"434:10": {
+"id:8":"contenttweaker:petrothite_glass",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"435:10": {
+"id:8":"contenttweaker:aerotheum_dust_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"436:10": {
+"id:8":"contenttweaker:tartarite_dust_refiner",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"437:10": {
+"id:8":"contenttweaker:tartarite_forge",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"438:10": {
+"id:8":"contenttweaker:altarus_tank_controller",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"439:10": {
+"id:8":"contenttweaker:reinforced_steel_tank",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"440:10": {
+"id:8":"contenttweaker:reinforced_leather_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"441:10": {
+"id:8":"contenttweaker:flint_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"442:10": {
+"id:8":"contenttweaker:coal_coke_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"443:10": {
+"id:8":"contenttweaker:metal_former",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"444:10": {
+"id:8":"contenttweaker:compressed_cobblestone",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"445:10": {
+"id:8":"contenttweaker:glass_production_oven",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"446:10": {
+"id:8":"contenttweaker:infernium_forge_bricks",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"447:10": {
+"id:8":"contenttweaker:reinforced_steel_refinery",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"448:10": {
+"id:8":"contenttweaker:poisonous_potato_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"449:10": {
+"id:8":"contenttweaker:petrothite_tank_controller",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"450:10": {
+"id:8":"contenttweaker:grindstone",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"451:10": {
+"id:8":"contenttweaker:altarus_chemistry_station",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"452:10": {
+"id:8":"contenttweaker:altarus_dust_refiner",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"453:10": {
+"id:8":"contenttweaker:refined_coke_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"454:10": {
+"id:8":"contenttweaker:aerothite_freezer",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"455:10": {
+"id:8":"contenttweaker:altarus_dust_mixer",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"456:10": {
+"id:8":"contenttweaker:placeholder_clay_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"457:10": {
+"id:8":"contenttweaker:mithril_forge_controller",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"458:10": {
+"id:8":"contenttweaker:manalite_forge_controller",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"459:10": {
+"id:8":"contenttweaker:adamantium_forge_controller",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"460:10": {
+"id:8":"contenttweaker:infernium_forge",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"461:10": {
+"id:8":"contenttweaker:petrothite_refinery",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"462:10": {
+"id:8":"contenttweaker:petrothite_forge_controller",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"463:10": {
+"id:8":"contenttweaker:mana_coke_block",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"464:10": {
+"id:8":"contenttweaker:molten_reinforced_glass",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"465:10": {
+"id:8":"contenttweaker:sulfuric_acid",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"466:10": {
+"id:8":"contenttweaker:molten_glass",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"467:10": {
+"id:8":"contenttweaker:iron_bar",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"468:10": {
+"id:8":"contenttweaker:adamantium_nugget",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"469:10": {
+"id:8":"contenttweaker:molten_iron",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"470:10": {
+"id:8":"contenttweaker:molten_altarus_glass",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"471:10": {
+"id:8":"contenttweaker:adamantium_ingot",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"472:10": {
+"id:8":"contenttweaker:reinforced_string",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"473:10": {
+"id:8":"contenttweaker:tiny_sulfur_pile",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"474:10": {
+"id:8":"contenttweaker:molten_altarus",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"475:10": {
+"id:8":"contenttweaker:banana",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"476:10": {
+"id:8":"contenttweaker:raw_nugget_cast",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"477:10": {
+"id:8":"contenttweaker:steel_crystal",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"478:10": {
+"id:8":"contenttweaker:steel_forge_brick",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"479:10": {
+"id:8":"contenttweaker:manalite_nugget",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"480:10": {
+"id:8":"contenttweaker:mithril_ingot",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"481:10": {
+"id:8":"contenttweaker:very_tiny_cryotheum_dust_pile",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"482:10": {
+"id:8":"contenttweaker:molten_platinum_infused_glass",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"483:10": {
+"id:8":"contenttweaker:aerotheum_gas",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"484:10": {
+"id:8":"contenttweaker:reinforced_steel_ingot",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"485:10": {
+"id:8":"contenttweaker:environmental_destroyer_v3",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"486:10": {
+"id:8":"contenttweaker:environmental_destroyer_v2",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"487:10": {
+"id:8":"contenttweaker:niter",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"488:10": {
+"id:8":"contenttweaker:tartarite_forge_brick",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"489:10": {
+"id:8":"contenttweaker:mana_coke",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"490:10": {
+"id:8":"contenttweaker:molten_petrothite_glass",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"491:10": {
+"id:8":"contenttweaker:aerothite_nugget",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"492:10": {
+"id:8":"contenttweaker:tiny_mana_dust_pile",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"493:10": {
+"id:8":"contenttweaker:mana_dust",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"494:10": {
+"id:8":"contenttweaker:molten_cryothite",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"495:10": {
+"id:8":"contenttweaker:water_vapor",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"496:10": {
+"id:8":"contenttweaker:kerosene",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"497:10": {
+"id:8":"contenttweaker:altarus_ingot",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"498:10": {
+"id:8":"contenttweaker:gasoline_oil",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"499:10": {
+"id:8":"contenttweaker:molten_mithril",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"500:10": {
+"id:8":"contenttweaker:angmallen_nugget",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"501:10": {
+"id:8":"contenttweaker:pyrothite_ingot",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"502:10": {
+"id:8":"contenttweaker:infernal_coke",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"503:10": {
+"id:8":"contenttweaker:molten_steel",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"504:10": {
+"id:8":"contenttweaker:beaker",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"505:10": {
+"id:8":"contenttweaker:steel_blade",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"506:10": {
+"id:8":"contenttweaker:cryothite_nugget",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"507:10": {
+"id:8":"contenttweaker:molten_reinforced_steel",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"508:10": {
+"id:8":"contenttweaker:petrothite_nugget",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"509:10": {
+"id:8":"contenttweaker:very_tiny_petrotheum_dust_pile",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"510:10": {
+"id:8":"contenttweaker:refined_coke",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"511:10": {
+"id:8":"contenttweaker:cryotheum_dust",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"512:10": {
+"id:8":"contenttweaker:pyrotheum_gas",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"513:10": {
+"id:8":"contenttweaker:potassium",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"514:10": {
+"id:8":"contenttweaker:molten_petrothite",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"515:10": {
+"id:8":"contenttweaker:platinum_nugget",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"516:10": {
+"id:8":"contenttweaker:molten_tartarite_glass",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"517:10": {
+"id:8":"contenttweaker:stone_gear",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"518:10": {
+"id:8":"tiny_cryotheum_dust_pile",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"519:10": {
+"id:8":"contenttweaker:molten_platinum",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"520:10": {
+"id:8":"contenttweaker:molten_infernium",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"521:10": {
+"id:8":"contenttweaker:petrotheum_gas",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"522:10": {
+"id:8":"contenttweaker:molten_tartarite",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"523:10": {
+"id:8":"contenttweaker:diesel_oil",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"524:10": {
+"id:8":"contenttweaker:life_infused_coke",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"525:10": {
+"id:8":"contenttweaker:glass_crystal",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"526:10": {
+"id:8":"contenttweaker:molten_gold",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"527:10": {
+"id:8":"contenttweaker:chain",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"528:10": {
+"id:8":"contenttweaker:reinforced_leather",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"529:10": {
+"id:8":"contenttweaker:glass_shard",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"530:10": {
+"id:8":"contenttweaker:very_tiny_sulfur_pile",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"531:10": {
+"id:8":"contenttweaker:coal_coke",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"532:10": {
+"id:8":"contenttweaker:naphtha",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"533:10": {
+"id:8":"contenttweaker:medium_oil",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"534:10": {
+"id:8":"contenttweaker:wood_gear",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"535:10": {
+"id:8":"contenttweaker:mana_gas",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"536:10": {
+"id:8":"contenttweaker:reinforced_steel_nugget",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"537:10": {
+"id:8":"contenttweaker:pyrothite_forge_brick",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"538:10": {
+"id:8":"contenttweaker:coke_oven_brick",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"539:10": {
+"id:8":"contenttweaker:molten_manalite",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"540:10": {
+"id:8":"contenttweaker:cryothite_ingot",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"541:10": {
+"id:8":"contenttweaker:petrothite_ingot",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"542:10": {
+"id:8":"contenttweaker:adamantium_forge_brick",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"543:10": {
+"id:8":"contenttweaker:tartarite_nugget",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"544:10": {
+"id:8":"contenttweaker:platinum_ingot",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"545:10": {
+"id:8":"contenttweaker:weird_food",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"546:10": {
+"id:8":"contenttweaker:infernium_forge_brick",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"547:10": {
+"id:8":"contenttweaker:sulfur_gas",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"548:10": {
+"id:8":"contenttweaker:altarus_forge_brick",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"549:10": {
+"id:8":"contenttweaker:petrotheum_dust",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"550:10": {
+"id:8":"contenttweaker:steel_shard",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"551:10": {
+"id:8":"contenttweaker:nitrate",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"552:10": {
+"id:8":"contenttweaker:steel_ingot",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"553:10": {
+"id:8":"contenttweaker:nitrogen",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"554:10": {
+"id:8":"contenttweaker:glass_blade",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"555:10": {
+"id:8":"contenttweaker:cryotheum_gas",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"556:10": {
+"id:8":"contenttweaker:blizz_rod",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"557:10": {
+"id:8":"contenttweaker:pyrothite_nugget",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"558:10": {
+"id:8":"contenttweaker:very_tiny_niter_pile",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"559:10": {
+"id:8":"contenttweaker:very_tiny_pyrotheum_dust_pile",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"560:10": {
+"id:8":"contenttweaker:oil",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"561:10": {
+"id:8":"contenttweaker:aerothite_ingot",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"562:10": {
+"id:8":"contenttweaker:manalite_ingot",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"563:10": {
+"id:8":"contenttweaker:oxygen",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"564:10": {
+"id:8":"contenttweaker:steel_cutter",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"565:10": {
+"id:8":"contenttweaker:tiny_pyrotheum_dust_pile",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"566:10": {
+"id:8":"contenttweaker:tiny_niter_pile",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"567:10": {
+"id:8":"contenttweaker:steel_nugget",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"568:10": {
+"id:8":"contenttweaker:molten_adamantium",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"569:10": {
+"id:8":"contenttweaker:glass_cutter",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"570:10": {
+"id:8":"contenttweaker:refined_fuel",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"571:10": {
+"id:8":"contenttweaker:reinforced_steel_forge_brick",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"572:10": {
+"id:8":"contenttweaker:basalz_rod",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"573:10": {
+"id:8":"contenttweaker:tiny_aerotheum_dust_pile",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"574:10": {
+"id:8":"contenttweaker:reinforced_feather",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"575:10": {
+"id:8":"contenttweaker:potassium_nitrate",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"576:10": {
+"id:8":"contenttweaker:aerotheum_dust",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"577:10": {
+"id:8":"contenttweaker:sulfur",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"578:10": {
+"id:8":"contenttweaker:hydrogen",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"579:10": {
+"id:8":"contenttweaker:molten_angmallen",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"580:10": {
+"id:8":"contenttweaker:very_tiny_aerotheum_dust_pile",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"581:10": {
+"id:8":"contenttweaker:steel_turbine",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"582:10": {
+"id:8":"contenttweaker:angmallen_ingot",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"583:10": {
+"id:8":"contenttweaker:flask",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"584:10": {
+"id:8":"contenttweaker:blitz_rod",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"585:10": {
+"id:8":"contenttweaker:mithril_forge_brick",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"586:10": {
+"id:8":"contenttweaker:tiny_petrotheum_dust_pile",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"587:10": {
+"id:8":"contenttweaker:placeholder_clay",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"588:10": {
+"id:8":"contenttweaker:pyrotheum_dust",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"589:10": {
+"id:8":"contenttweaker:nugget_cast",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"590:10": {
+"id:8":"contenttweaker:tartarite_ingot",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"591:10": {
+"id:8":"contenttweaker:heavy_oil",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"592:10": {
+"id:8":"contenttweaker:environmental_destroyer",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"593:10": {
+"id:8":"contenttweaker:infernium_ingot",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"594:10": {
+"id:8":"contenttweaker:molten_pyrothite",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"595:10": {
+"id:8":"contenttweaker:infernium_nugget",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"596:10": {
+"id:8":"contenttweaker:manalite_forge_brick",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"597:10": {
+"id:8":"contenttweaker:altarus_nugget",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"598:10": {
+"id:8":"contenttweaker:very_tiny_mana_dust_pile",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"599:10": {
+"id:8":"contenttweaker:blast_furnace_brick",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"600:10": {
+"id:8":"contenttweaker:molten_aerothite",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"601:10": {
+"id:8":"contenttweaker:mithril_nugget",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+},
+"602:10": {
+"id:8":"contenttweaker:petrothite_forge_brick",
+"Count:3": 2147483647,
+"OreDict:8":"",
+"Damage:3":0
+}
+
+
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "minecraft:ender_eye",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
     }
   },
   "questLines:9": {
@@ -27583,9 +31298,21 @@
       "quests:9": {
         "0:10": {
           "size:3": 24,
-          "x:3": -168,
+          "x:3": -144,
           "y:3": 36,
           "id:3": 76
+        },
+        "1:10": {
+          "size:3": 24,
+          "x:3": -192,
+          "y:3": 36,
+          "id:3": 157
+        },
+        "2:10": {
+          "size:3": 24,
+          "x:3": -240,
+          "y:3": 36,
+          "id:3": 158
         }
       },
       "lineID:3": 4,
